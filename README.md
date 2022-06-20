@@ -44,7 +44,18 @@
   </a> -->
 
   ---
+  
+ ### :four_leaf_clover: Area of Strength:
+• Lay a solid foundation in mathematics including calculus, linear algebra, and probability and statistics; mastering skills such as regression, classification, clustering, dimension reduction, hypothesis testing, and A/B testing
+  
+• Have rich experience in applying machine learning algorithms to real-world problems, including interpreting consumer traffic of big malls, building recommender systems, detecting fraud in credit transactions, detecting illegal transaction networks on WeChat, and predicting Alzheimer’s disease
+  
+• Master knowledge in large-scale data management and parallel computing; using frameworks such as SQL, HDFS, and Spark
+  
+• Program in Python; fluently using scientific computing tools including Scipy, Numpy, Pandas, and Ipython; visualization methods including Matplotlib, Tableau, and Seaborn; machine learning tools including Scikit-Learn, NLTK, Pytorch, Tensorflow, and Keras
 
+   ---
+  
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
