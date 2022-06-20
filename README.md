@@ -1,10 +1,8 @@
 <h4>   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> 
-  Hi there ~
-  I am Wenxin (Wendy) Zhang. 
-  Welcome to my channel!
   
-  ---
+  ### Hi there. This is Wenxin (Wendy) Zhang. Welcome to my channel! ###
+  
   
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/QKUTD5lAgpgrSHpbMB/giphy.gif" width="150"/>
