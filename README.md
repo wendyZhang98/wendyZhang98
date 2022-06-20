@@ -17,15 +17,11 @@
   
 ### :sparkles: About ME :
 
-[:woman_student:] I graduate from [NEW YORK UNIVERSITY Center for Data Science](https://cds.nyu.edu/). 
+[:woman_student:] I graduate from [NEW YORK UNIVERSITY Center for Data Science](https://cds.nyu.edu/). My interest lies in using data science techniques to solve real-world data-driven problems. I share learning notes and write original tutorials regarding Data Science on [Medium](https://medium.com/@WenxinZhang98). 
 
-[:computer:] I share my learning notes regarding Data Science on [Medium](https://medium.com/@WenxinZhang98). 
+[:honey_pot:] I evaluate work-life balance and have always been obsessed with my hobbies. I enjoy various genres of books, movies, and musics; post reviews on [DouBan](https://www.douban.com/people/wenxinz0719/?_i=5755149buzZokh). I love photography and record life moments; upload some on [IG](https://www.instagram.com/wenxin.z0719/) and [LittleRedBook](https://www.xiaohongshu.com/user/profile/57877f7082ec3971aff0766c?xhsshare=CopyLink&appuid=57877f7082ec3971aff0766c&apptime=1655756731). I also invest my time in doing sports and meditation. 
 
-[:clapper:] I enjoy books & movies; post reviews on [DouBan](https://www.douban.com/people/wenxinz0719/?_i=5755149buzZokh). 
-
-[:honey_pot:] I love photography; upload life moments on [IG](https://www.instagram.com/wenxin.z0719/) or [LittleRedBook](https://www.xiaohongshu.com/user/profile/57877f7082ec3971aff0766c?xhsshare=CopyLink&appuid=57877f7082ec3971aff0766c&apptime=1655756731). 
-
-[:mailbox:] You can connect me via [Linkedin](https://www.linkedin.com/in/wenxinzhang980719/) and reach me via wenxin.z0719@gmail.com.
+[:mailbox:] I believe there is always something I can learn from others, that's why I appreciate connection! You can connect me on [Linkedin](https://www.linkedin.com/in/wenxinzhang980719/) or feel free to throw me a letter via wenxin.z0719@gmail.com.
 
 <!-- 
 <div id="header" align="center">
