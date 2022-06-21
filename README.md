@@ -61,7 +61,7 @@
   - Predict and Interprect Customer Traffic Introduced by Campaigns
   
   Data Engineer Work Experience:
-  - Generate and Automate Reports for Fraud Detection
+  - [Generate and Automate Reports for Fraud Detection](https://drive.google.com/file/d/1kO5McSQ9fEp9fyC32djIHLi-lMzM8-G5/view?usp=sharing)
   
   Data Science Project: 
   - [Detected Dementia Using Patients' MRI](https://drive.google.com/file/d/12BjlyC14fZeHesTK5nCIVaQI6SsIv9qp/view)
