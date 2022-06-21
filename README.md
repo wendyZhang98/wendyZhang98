@@ -58,7 +58,7 @@
   
   Machine Learning Engineer Work Experience: 
   - Detect Illegitimate Wechat Groups 
-  - Predict and Interprect Customer Traffic Introduced by Campaigns
+  - [Predict and Interprect Customer Traffic Introduced by Campaigns](https://medium.com/@WenxinZhang98/interpretable-machine-learning-9c1851a960e)
   
   Data Engineer Work Experience:
   - [Generate and Automate Reports for Fraud Detection](https://drive.google.com/file/d/1kO5McSQ9fEp9fyC32djIHLi-lMzM8-G5/view?usp=sharing)
