@@ -54,6 +54,23 @@
 
    ---
   
+  ### :medal_military: Project & Work Experience:
+  
+  Machine Learning Engineer Work Experience: 
+  - Detect Illegitimate Wechat Groups 
+  - Predict and Interprect Customer Traffic Introduced by Campaigns
+  
+  Data Engineer Work Experience:
+  - Generate and Automate Reports for Fraud Detection
+  
+  Data Science Project: 
+  - [Detected Dementia Using Patients' MRI](https://drive.google.com/file/d/12BjlyC14fZeHesTK5nCIVaQI6SsIv9qp/view)
+  - [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1inUFglNZnNFasir-VtfsHSvnITyiDnLh/view)
+  - [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
+  - [Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
+
+   ---
+  
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
