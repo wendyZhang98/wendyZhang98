@@ -58,7 +58,7 @@
   ### :medal_military: Project & Work Experience:
   
   Machine Learning Engineer Work Experience: 
-  - Detect Illegitimate Wechat Groups 
+  - [Detect Illegitimate Wechat Groups](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
   - [Predict and Interprect Customer Traffic Introduced by Campaigns](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
   
   Data Engineer Work Experience:
