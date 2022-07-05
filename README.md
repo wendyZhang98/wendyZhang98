@@ -19,7 +19,7 @@
 
 [:purple_heart:] I graduate from [NYU Center for Data Science](https://cds.nyu.edu/), where I take courses including: [Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython); Probabilities and Statistics; [Machine Learning](https://nyu-ds1003.github.io/spring2021/#home); Big Data; Capstone; [Deep Learning](https://bubbly-methane-e7a.notion.site/Deep-Learning-Fall-21-6dbea69b29994c4e88cd12a494e6b01f); Natural Language Processing; Natural Language Understanding; [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html); [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python); [Responsible Data Science](https://dataresponsibly.github.io/rds/).
   
-[:woman_student:] I am endeavoring to play my role as a full-stack data scientist in industries of Finance Services & Media and Entertainment & Health and Life Sciences. It excites most when I can make a difference in solving data-driven problems using statistics, ML, DL, NLP, and Big Data techniques. From 2022, I begin to share learning notes and write original tutorials regarding Data Science on [Medium](https://medium.com/@WenxinZhang98). You can also know more about my past experience from my [Resume](https://drive.google.com/file/d/1sp5VwigkOvQklpvjjzJLHMnsypNLdb_8/view?usp=sharing) here.
+[:woman_student:] I am endeavoring to play my role as a full-stack data scientist in industries of Finance Services & Media and Entertainment & Health and Life Sciences. It excites most when I can make a difference in solving data-driven problems using statistics, ML, DL, NLP, and Big Data techniques. From 2022, I begin to share learning notes and write original tutorials regarding Data Science on [Medium](https://medium.com/@WenxinZhang98). You can also know more about my past experience from my [Resume](https://drive.google.com/file/d/1Er0r6igVK5XinLHYC5zdMyf7KI0Jkbnr/view?usp=sharing) here.
 
 <!-- [:honey_pot:] I evaluate work-life balance and have always been obsessed with my hobbies. I enjoy various genres of books, movies, and musics; post reviews on [DouBan](https://www.douban.com/people/wenxinz0719/?_i=5755149buzZokh). I love taking pictures and documenting memorible life moments; upload some on [IG](https://www.instagram.com/wenxin.z0719/). I read financial news every morning and sometimes summarize what I have learned from these news for better understanding on [Snowball](https://xueqiu.com/u/8737818733). -->
 
@@ -56,14 +56,15 @@
   
   ### :medal_military: Project & Work Experience:
   
-  Machine Learning Engineer Work Experience: 
-  - [Detect Illegitimate Wechat Groups](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
-  - [Predict and Interprect Customer Traffic Introduced by Campaigns](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
-  
-  Data Engineer Work Experience:
-  - [Generate and Automate Reports for Fraud Detection](https://drive.google.com/file/d/1kO5McSQ9fEp9fyC32djIHLi-lMzM8-G5/view?usp=sharing)
+Work Experience: 
+  - [Boehringer Ingelheim | Data Science Intern | Animal Health GTN Analysis]
+  - [AlphaPoint | Data Engineer Intern | Auto-generate Financial Reports & Detecte Fraud](https://drive.google.com/file/d/1kO5McSQ9fEp9fyC32djIHLi-lMzM8-G5/view?usp=sharing)
+  - [Tencent | Machine Learning Engineer Intern | Detect Illegitimate Wechat Groups](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
+  - [Scishang | Machine Learning Engineer Intern | Predict and Interprect Customer Traffic Introduced by Campaigns](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
+
   
   Data Science Project: 
+  - [PROFILED GPT-3’S LINGUISTIC KNOWLEDGE](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
   - [Detected Dementia Using Patients' MRI](https://drive.google.com/file/d/12BjlyC14fZeHesTK5nCIVaQI6SsIv9qp/view)
   - [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1inUFglNZnNFasir-VtfsHSvnITyiDnLh/view)
   - [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
