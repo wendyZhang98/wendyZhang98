@@ -10,19 +10,22 @@
     <img src="https://media.giphy.com/media/QKUTD5lAgpgrSHpbMB/giphy.gif" width="150"/>
     <img src="https://media.giphy.com/media/QKUTD5lAgpgrSHpbMB/giphy.gif" width="150"/> -->
 </h4>
-
-  Hi there, this is Wenxin Zhang! 
-  ---
   
-### :sparkles: About ME :
-
-[:purple_heart:] I graduate from [NYU Center for Data Science](https://cds.nyu.edu/), where I take courses including: [Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython); Probabilities and Statistics; [Machine Learning](https://nyu-ds1003.github.io/spring2021/#home); Big Data; [Capstone](https://github.com/wendyZhang98/DS-GA-1006-Capstone); [Deep Learning](https://bubbly-methane-e7a.notion.site/Deep-Learning-Fall-21-6dbea69b29994c4e88cd12a494e6b01f); Natural Language Processing; Natural Language Understanding; [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html); [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python); [Responsible Data Science](https://dataresponsibly.github.io/rds/).
+</div>
+<div id="profile-views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=wendyZhang98&style=flat-square&color=blue" alt=""/>
+</div>
   
-[:woman_student:] I am endeavoring to play my role as a full-stack data scientist in industries of Finance Services & Media and Entertainment & Health and Life Sciences. It excites most when I can make a difference in solving data-driven problems using statistics, ML, DL, NLP, and Big Data techniques. From 2022, I begin to share learning notes and write original tutorials regarding Data Science on [Medium](https://medium.com/@WenxinZhang98).
-
+Wenxin Zhang
+   ---
+  
+ - 🗽I graduated from [NYU Center for Data Science](https://cds.nyu.edu/) on 2022 May, where I took courses including [Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython); Probabilities and Statistics; [Machine Learning](https://nyu-ds1003.github.io/spring2021/#home); Big Data; [Capstone](https://github.com/wendyZhang98/DS-GA-1006-Capstone); [Deep Learning](https://bubbly-methane-e7a.notion.site/Deep-Learning-Fall-21-6dbea69b29994c4e88cd12a494e6b01f); Natural Language Processing; Natural Language Understanding; [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html); [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python); [Responsible Data Science](https://dataresponsibly.github.io/rds/).
+  
+- 🎯I am endeavoring to play my role as a full-stack data scientist in the Finance Services & Media and Entertainment & Health and Life Sciences industries. It excites me most when I can create an impact in making data-supported decisions using statistics, machine learning, natural language processing techniques. As a new graduate, I find myself especially interested in fields such as data modeling, interpretable machine learning, fraud detection, and text data mining. I begin to share learning notes and write original tutorials on [Medium](https://medium.com/@WenxinZhang98) since 2021.
+  
 <!-- [:honey_pot:] I evaluate work-life balance and have always been obsessed with my hobbies. I enjoy various genres of books, movies, and musics; post reviews on [DouBan](https://www.douban.com/people/wenxinz0719/?_i=5755149buzZokh). I love taking pictures and documenting memorible life moments; upload some on [IG](https://www.instagram.com/wenxin.z0719/). I read financial news every morning and sometimes summarize what I have learned from these news for better understanding on [Snowball](https://xueqiu.com/u/8737818733). -->
 
-[:mailbox:] I believe there is always something we can learn from others, that's why I appreciate connection! You can connect me on [Linkedin](https://www.linkedin.com/in/wenxinzhang980719/) or feel free to throw me a letter via wenxin.z0719@gmail.com.
+- 🤗I believe there is always something we can learn from others, that's why I appreciate connection! You can connect me via [Linkedin](https://www.linkedin.com/in/wenxinzhang980719/).
 
 <!-- 
 <div id="header" align="center">
@@ -40,42 +43,27 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a> -->
 
-  ---
-  
- ### :four_leaf_clover: Area of Strength:
-• Lay a solid foundation in mathematics including calculus, linear algebra, and probability and statistics; mastering skills such as regression, classification, clustering, dimension reduction, hypothesis testing, and A/B testing
-  
-• Have rich experience in applying machine learning algorithms to real-world problems, including interpreting consumer traffic of big malls, building recommender systems, detecting fraud in credit transactions, detecting illegal transaction networks on WeChat, and predicting Alzheimer’s disease
-  
-• Master knowledge in large-scale data management and parallel computing; using frameworks such as SQL, HDFS, and Spark
-  
-• Program in Python; fluently using scientific computing tools including Scipy, Numpy, Pandas, and Ipython; visualization methods including Matplotlib, Tableau, and Seaborn; machine learning tools including Scikit-Learn, NLTK, Pytorch, Tensorflow, and Keras
-
    ---
   
-  ### :medal_military: Project & Work Experience:
+### :medal_military: Work Experience & Projects
+- 🇺🇸🏦Deustche Bank | 👩🏻‍💻Data Scientist | Working in Anti-Financial Crime Group
+- 🇺🇸💊Boehringer Ingelheim | 👩🏻‍💻Data Scientist Intern | 🐶[Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://medium.com/@WenxinZhang98/ds-internship-takeaways-a5a25873cdc5)
+- 🇺🇸💻AlphaPoint | 👩🏻‍💻Data Engineer Intern | 💰[Build ETL to generate Financial Reports & Design Dashboard to Monitor Transactions](https://drive.google.com/file/d/1kO5McSQ9fEp9fyC32djIHLi-lMzM8-G5/view?usp=sharing)
+- 🇨🇳💬Tencent | 👩🏻‍💻Machine Learning Engineer Intern | ❌[Detect Illegitimate Wechat Groups](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
+- 🇨🇳🛍️Winner Technology | 👩🏻‍💻Machine Learning Engineer Intern | 🎄[Predict and Interprect Customer Traffic Introduced by Campaigns](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
+- Kaggle Competition | 💳[Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
+- Recommender System | 🎵[Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1inUFglNZnNFasir-VtfsHSvnITyiDnLh/view)
+- Recommender System | 🍜[Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
+- Natural Language Understanding | 🤔[Probing GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
+- Deep Learning | 🏥[Automatic Detection of Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/12BjlyC14fZeHesTK5nCIVaQI6SsIv9qp/view)
   
-Work Experience 🇺🇸:
-- 🏦Deustche Bank | 👩🏻‍💻Data Scientist | Anti-Financial-Crime
-- 💊Boehringer Ingelheim | 👩🏻‍💻Data Scientist Intern | 🐶[Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://medium.com/@WenxinZhang98/ds-internship-takeaways-a5a25873cdc5)
-- 💻AlphaPoint| 👩🏻‍💻Data Engineer Intern | 💰[Build ETL to generate Financial Reports & Design Dashboard to Monitor Daily Transactions](https://drive.google.com/file/d/1kO5McSQ9fEp9fyC32djIHLi-lMzM8-G5/view?usp=sharing)
+<!--  ### :four_leaf_clover: Area of Strength
+• Lay a solid foundation in mathematics including calculus, probability and statistics, and linear algebra; mastering skills such as regression, classification, clustering, dimension reduction, and hypothesis testing
 
-Work Experience 🇨🇳: 
-- 💬Tencent | 👩🏻‍💻Machine Learning Engineer Intern | ❌[Detect Illegitimate Wechat Groups](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
-- 🛍️Winner Technology | 👩🏻‍💻Machine Learning Engineer Intern | 🎄[Predict and Interprect Customer Traffic Introduced by Campaigns](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
-
-Recommender System:
-- 🎵[Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1inUFglNZnNFasir-VtfsHSvnITyiDnLh/view)
-- 🍜[Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
-
-Natural Language Understanding Project:
-- 🤔[Probing GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
-
-Deep Learning Project:
-- 🏥[Automatic Detection of Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/12BjlyC14fZeHesTK5nCIVaQI6SsIv9qp/view)
-
-Kaggle Competition: 
-- 💳[Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
+• Master knowledge in large-scale data management and parallel computing; using frameworks such as SQL, HDFS, and Spark
+  
+• Program in Python; fluently using scientific computing tools including Scipy, Numpy, Pandas, and Ipython; visualization methods including Matplotlib, Tableau, and Seaborn; machine learning tools including Scikit-Learn, NLTK, Pytorch, Tensorflow, and Keras --> 
+  
  ---
   
 ### :hammer_and_wrench: Languages and Tools :
@@ -136,10 +124,6 @@ Kaggle Competition:
   
 </div>  
   
- ---
+<!--  --- -->
 
-</div>
-<div id="profile-views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=wendyZhang98&style=flat-square&color=blue" alt=""/>
-</div>
 
