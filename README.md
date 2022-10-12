@@ -55,21 +55,28 @@
   
   ### :medal_military: Project & Work Experience:
   
-Work Experience: 
-  - [Boehringer Ingelheim | Data Science Intern | Animal Health GTN Analysis](https://medium.com/@WenxinZhang98/ds-internship-takeaways-a5a25873cdc5)
-  - [AlphaPoint | Data Engineer Intern | Auto-generate Financial Reports & Detecte Fraud](https://drive.google.com/file/d/1kO5McSQ9fEp9fyC32djIHLi-lMzM8-G5/view?usp=sharing)
-  - [Tencent | Machine Learning Engineer Intern | Detect Illegitimate Wechat Groups](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
-  - [Scishang | Machine Learning Engineer Intern | Predict and Interprect Customer Traffic Introduced by Campaigns](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
+Work Experience 🇺🇸:
+- 🏦Deustche Bank | 👩🏻‍💻Data Scientist | Anti-Financial-Crime
+- 💊Boehringer Ingelheim | 👩🏻‍💻Data Scientist Intern | 🐶[Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://medium.com/@WenxinZhang98/ds-internship-takeaways-a5a25873cdc5)
+- 💻AlphaPoint| 👩🏻‍💻Data Engineer Intern | 💰[Build ETL to generate Financial Reports & Design Dashboard to Monitor Daily Transactions](https://drive.google.com/file/d/1kO5McSQ9fEp9fyC32djIHLi-lMzM8-G5/view?usp=sharing)
 
-  
-  Data Science Project: 
-  - [Probing GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
-  - [Detected Dementia Using Patients' MRI](https://drive.google.com/file/d/12BjlyC14fZeHesTK5nCIVaQI6SsIv9qp/view)
-  - [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1inUFglNZnNFasir-VtfsHSvnITyiDnLh/view)
-  - [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
-  - [Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
+Work Experience 🇨🇳: 
+- 💬Tencent | 👩🏻‍💻Machine Learning Engineer Intern | ❌[Detect Illegitimate Wechat Groups](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
+- 🛍️Winner Technology | 👩🏻‍💻Machine Learning Engineer Intern | 🎄[Predict and Interprect Customer Traffic Introduced by Campaigns](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
 
-   ---
+Recommender System:
+- 🎵[Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1inUFglNZnNFasir-VtfsHSvnITyiDnLh/view)
+- 🍜[Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
+
+Natural Language Understanding Project:
+- 🤔[Probing GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
+
+Deep Learning Project:
+- 🏥[Automatic Detection of Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/12BjlyC14fZeHesTK5nCIVaQI6SsIv9qp/view)
+
+Kaggle Competition: 
+- 💳[Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
+ ---
   
 ### :hammer_and_wrench: Languages and Tools :
 
