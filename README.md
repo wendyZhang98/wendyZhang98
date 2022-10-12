@@ -51,11 +51,11 @@ Wenxin Zhang
 - 🇺🇸💻AlphaPoint | 👩🏻‍💻Data Engineer Intern | 💰[Build ETL to generate Financial Reports & Design Dashboard to Monitor Transactions](https://drive.google.com/file/d/1kO5McSQ9fEp9fyC32djIHLi-lMzM8-G5/view?usp=sharing)
 - 🇨🇳💬Tencent | 👩🏻‍💻Machine Learning Engineer Intern | ❌[Detect Illegitimate Wechat Groups](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
 - 🇨🇳🛍️Winner Technology | 👩🏻‍💻Machine Learning Engineer Intern | 🎄[Predict and Interprect Customer Traffic Introduced by Campaigns](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
-- Kaggle Competition | 💳[Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
-- Recommender System | 🎵[Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1inUFglNZnNFasir-VtfsHSvnITyiDnLh/view)
-- Recommender System | 🍜[Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
 - Natural Language Understanding | 🤔[Probing GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
 - Deep Learning | 🏥[Automatic Detection of Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/12BjlyC14fZeHesTK5nCIVaQI6SsIv9qp/view)
+- Recommender System | 🎵[Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1inUFglNZnNFasir-VtfsHSvnITyiDnLh/view)
+- Recommender System | 🍜[Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
+- Kaggle Competition | 💳[Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
   
 <!--  ### :four_leaf_clover: Area of Strength
 • Lay a solid foundation in mathematics including calculus, probability and statistics, and linear algebra; mastering skills such as regression, classification, clustering, dimension reduction, and hypothesis testing
