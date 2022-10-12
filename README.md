@@ -63,7 +63,7 @@ Work Experience:
 
   
   Data Science Project: 
-  - [Profiled GPT-3’S Linguistic Knowledge](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
+  - [Probing GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
   - [Detected Dementia Using Patients' MRI](https://drive.google.com/file/d/12BjlyC14fZeHesTK5nCIVaQI6SsIv9qp/view)
   - [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1inUFglNZnNFasir-VtfsHSvnITyiDnLh/view)
   - [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
