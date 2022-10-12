@@ -25,7 +25,7 @@ Wenxin Zhang
   
 <!-- [:honey_pot:] I evaluate work-life balance and have always been obsessed with my hobbies. I enjoy various genres of books, movies, and musics; post reviews on [DouBan](https://www.douban.com/people/wenxinz0719/?_i=5755149buzZokh). I love taking pictures and documenting memorible life moments; upload some on [IG](https://www.instagram.com/wenxin.z0719/). I read financial news every morning and sometimes summarize what I have learned from these news for better understanding on [Snowball](https://xueqiu.com/u/8737818733). -->
 
-- 🤗I believe there is always something we can learn from others, that's why I appreciate connection! You can connect me via [Linkedin](https://www.linkedin.com/in/wenxinzhang980719/).
+<!-- - 🤗I believe there is always something we can learn from others, that's why I appreciate connection! You can connect me via [Linkedin](https://www.linkedin.com/in/wenxinzhang980719/). -->
 
 <!-- 
 <div id="header" align="center">
