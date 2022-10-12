@@ -48,7 +48,7 @@ Wenxin Zhang
 ### :medal_military: Work Experience & Projects
 - 🇺🇸🏦Deustche Bank | 👩🏻‍💻Data Scientist | Working in Anti-Financial Crime Group
 - 🇺🇸🏫New York University | 👩‍🏫 Teaching Assistant & Grader (Section Leader) | 💻[Prepare and Conduct Lab Sessions]()
-- 🇺🇸💊Boehringer Ingelheim | 👩🏻‍💻Data Scientist Intern | 🐶[Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://medium.com/@WenxinZhang98/ds-internship-takeaways-a5a25873cdc5)
+- 🇺🇸💊Boehringer Ingelheim | 👩🏻‍💻Data Scientist Intern | 🐶[Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://github.com/wendyZhang98/boehringer-ingelheim-cds)
 - 🇺🇸💻AlphaPoint | 👩🏻‍💻Data Engineer Intern | 💰[Build ETL to Auto-Generate Reports & Design Dashboard to Monitor Transactions](https://drive.google.com/file/d/1kO5McSQ9fEp9fyC32djIHLi-lMzM8-G5/view?usp=sharing)
 - 🇨🇳💬Tencent | 👩🏻‍💻Machine Learning Engineer Intern | ❌[Detect Illegitimate Wechat Groups based on Network Analysis](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
 - 🇨🇳🛍️Winner Technology | 👩🏻‍💻Machine Learning Engineer Intern | 🎄[Predict and Interprect Customer Traffic of Malls](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
