@@ -49,7 +49,7 @@ Wenxin Zhang
 - 🇺🇸🏦Deustche Bank | 👩🏻‍💻Data Scientist | Working in Anti-Financial Crime Group
 - 🇺🇸🏫New York University | 👩‍🏫 Teaching Assistant & Grader (Section Leader) | 💻[Prepare and Conduct Lab Sessions]()
 - 🇺🇸💊Boehringer Ingelheim | 👩🏻‍💻Data Scientist Intern | 🐶[Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://medium.com/@WenxinZhang98/ds-internship-takeaways-a5a25873cdc5)
-- 🇺🇸💻AlphaPoint | 👩🏻‍💻Data Engineer Intern | 💰[Build ETL to generate Financial Reports & Design Dashboard to Monitor Transactions](https://drive.google.com/file/d/1kO5McSQ9fEp9fyC32djIHLi-lMzM8-G5/view?usp=sharing)
+- 🇺🇸💻AlphaPoint | 👩🏻‍💻Data Engineer Intern | 💰[Build ETL to auto-generate Reports & Design Dashboard to Monitor Transactions](https://drive.google.com/file/d/1kO5McSQ9fEp9fyC32djIHLi-lMzM8-G5/view?usp=sharing)
 - 🇨🇳💬Tencent | 👩🏻‍💻Machine Learning Engineer Intern | ❌[Detect Illegitimate Wechat Groups](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
 - 🇨🇳🛍️Winner Technology | 👩🏻‍💻Machine Learning Engineer Intern | 🎄[Predict and Interprect Customer Traffic](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
 - Natural Language Understanding | 🤔[Probing GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
