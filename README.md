@@ -50,7 +50,7 @@ Wenxin Zhang
 - 🇺🇸🏫 New York University | 👩🏻‍💻Teaching Assistant & Grader | 💜 [Prepare and Conduct Lab Sessions & Grade Assignments](https://github.com/wendyZhang98/Lab_Sessions_Capstone)
 - 🇺🇸💊Boehringer Ingelheim | 👩🏻‍💻 Data Scientist Intern | 🐶 [Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://github.com/wendyZhang98/boehringer-ingelheim-cds)
 - 🇺🇸💻AlphaPoint | 👩🏻‍💻 Data Engineer Intern | 💰 [Autogenerate Financial Reports using ETL & Build Monitoring Dashboard](https://drive.google.com/file/d/18-Qe0sBw5E7JTZEq8E3CdZG59iN9HvFG/view?usp=sharing)
-- 🇨🇳💬Tencent | 👩🏻‍💻 Machine Learning Engineer Intern | ❌ [Detect Illegitimate Wechat Groups](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
+- 🇨🇳💬Tencent | 👩🏻‍💻 Machine Learning Engineer Intern | ❌ [Detect Illegitimate Wechat Groups via Data Mining](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
 - 🇨🇳🛍️Winner Technology | 👩🏻‍💻 Machine Learning Engineer Intern | 🎄 [Predict and Interprect Customer Traffic of Malls](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
 
 ### :medal_military: Projects
