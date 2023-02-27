@@ -46,7 +46,7 @@ Wenxin Zhang
    ---
   
 ### :medal_military: Work Experience 
-- 🇺🇸🏦 Deustche Bank | 👩🏻‍💻 Data Scientist | Working in Anti-Financial Crime Group
+- 🇺🇸🏦 Deustche Bank | 👩🏻‍💻 Data Scientist | 🎯 Engineer transaction features & Build Network Analysis Framework
 - 🇺🇸🏫 New York University | 👩🏻‍💻Teaching Assistant & Grader | 💜 [Prepare and Conduct Lab Sessions](https://github.com/wendyZhang98/Lab_Sessions_Capstone)
 - 🇺🇸💊Boehringer Ingelheim | 👩🏻‍💻 Data Scientist Intern | 🐶 [Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://github.com/wendyZhang98/boehringer-ingelheim-cds)
 - 🇺🇸💻AlphaPoint | 👩🏻‍💻 Data Engineer Intern | 💰 [Build ETL to Auto-Generate Reports & Design Dashboard to Monitor Transactions](https://drive.google.com/file/d/18-Qe0sBw5E7JTZEq8E3CdZG59iN9HvFG/view?usp=sharing)
