@@ -54,11 +54,11 @@ Wenxin Zhang
 - 🇨🇳🛍️Winner Technology | 👩🏻‍💻 Machine Learning Engineer Intern | 🎄 [Predict and Interprect Customer Traffic of Malls](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
 
 ### :medal_military: Projects
-- Natural Language Understanding | 🤔 [Probe GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
-- Deep Learning | 🏥 [Detect Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/1g-7yjENwnTiIZKpoXGRvsz-VsQZ-0ULM/view?usp=sharing)
-- Recommender System | 🎵 [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1aUM3ATKp9WLJIt0vwycbDnSaQt4D0PUt/view?usp=sharing)
-- Recommender System | 🍜 [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
-- Kaggle Competition | 💳 [Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
+- 👩🏻‍💻 Natural Language Understanding | 🤔 [Probe GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
+- 👩🏻‍💻 Deep Learning | 🏥 [Detect Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/1g-7yjENwnTiIZKpoXGRvsz-VsQZ-0ULM/view?usp=sharing)
+- 👩🏻‍💻 Recommender System | 🎵 [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1aUM3ATKp9WLJIt0vwycbDnSaQt4D0PUt/view?usp=sharing)
+- 👩🏻‍💻 Recommender System | 🍜 [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
+- 👩🏻‍💻 Kaggle Competition | 💳 [Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
   
 <!--  ### :four_leaf_clover: Area of Strength
 • Lay a solid foundation in mathematics including calculus, probability and statistics, and linear algebra; mastering skills such as regression, classification, clustering, dimension reduction, and hypothesis testing
