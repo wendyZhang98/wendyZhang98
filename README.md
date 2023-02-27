@@ -53,7 +53,7 @@ Wenxin Zhang
 - 🇨🇳💬Tencent | 👩🏻‍💻Machine Learning Engineer Intern | ❌[Detect Illegitimate Wechat Groups based on Network Analysis](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
 - 🇨🇳🛍️Winner Technology | 👩🏻‍💻Machine Learning Engineer Intern | 🎄[Predict and Interprect Customer Traffic of Malls](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
 - Natural Language Understanding | 🤔[Probe GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
-- Deep Learning | 🏥[Automatic Detection of Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/12BjlyC14fZeHesTK5nCIVaQI6SsIv9qp/view](https://drive.google.com/file/d/1g-7yjENwnTiIZKpoXGRvsz-VsQZ-0ULM/view?usp=sharing)
+- Deep Learning | 🏥[Automatic Detection of Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/1g-7yjENwnTiIZKpoXGRvsz-VsQZ-0ULM/view?usp=sharing)
 - Recommender System | 🎵[Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1inUFglNZnNFasir-VtfsHSvnITyiDnLh/view)
 - Recommender System | 🍜[Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
 - Kaggle Competition | 💳[Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
