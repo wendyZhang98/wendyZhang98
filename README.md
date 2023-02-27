@@ -49,7 +49,7 @@ Wenxin Zhang
 - 🇺🇸🏦Deustche Bank | 👩🏻‍💻Data Scientist | Working in Anti-Financial Crime Group
 - 🇺🇸🏫New York University | 👩‍🏫 Teaching Assistant & Grader (Section Leader) | 💻[Prepare and Conduct Lab Sessions](https://github.com/wendyZhang98/Lab_Sessions_Capstone)
 - 🇺🇸💊Boehringer Ingelheim | 👩🏻‍💻Data Scientist Intern | 🐶[Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://github.com/wendyZhang98/boehringer-ingelheim-cds)
-- 🇺🇸💻AlphaPoint | 👩🏻‍💻Data Engineer Intern | 💰[Build ETL to Auto-Generate Reports & Design Dashboard to Monitor Transactions]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/18-Qe0sBw5E7JTZEq8E3CdZG59iN9HvFG/view?usp=sharing))
+- 🇺🇸💻AlphaPoint | 👩🏻‍💻Data Engineer Intern | 💰[Build ETL to Auto-Generate Reports & Design Dashboard to Monitor Transactions](https://drive.google.com/file/d/18-Qe0sBw5E7JTZEq8E3CdZG59iN9HvFG/view?usp=sharing)
 - 🇨🇳💬Tencent | 👩🏻‍💻Machine Learning Engineer Intern | ❌[Detect Illegitimate Wechat Groups based on Network Analysis](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
 - 🇨🇳🛍️Winner Technology | 👩🏻‍💻Machine Learning Engineer Intern | 🎄[Predict and Interprect Customer Traffic of Malls](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
 - Natural Language Understanding | 🤔[Probe GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
