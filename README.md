@@ -46,17 +46,17 @@ Wenxin Zhang
    ---
   
 ### :medal_military: Work Experience & Projects
-- 🇺🇸🏦Deustche Bank | 👩🏻‍💻Data Scientist | Working in Anti-Financial Crime Group
-- 🇺🇸🏫New York University | 👩‍🏫 Teaching Assistant & Grader (Section Leader) | 💻[Prepare and Conduct Lab Sessions](https://github.com/wendyZhang98/Lab_Sessions_Capstone)
-- 🇺🇸💊Boehringer Ingelheim | 👩🏻‍💻Data Scientist Intern | 🐶[Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://github.com/wendyZhang98/boehringer-ingelheim-cds)
-- 🇺🇸💻AlphaPoint | 👩🏻‍💻Data Engineer Intern | 💰[Build ETL to Auto-Generate Reports & Design Dashboard to Monitor Transactions](https://drive.google.com/file/d/18-Qe0sBw5E7JTZEq8E3CdZG59iN9HvFG/view?usp=sharing)
-- 🇨🇳💬Tencent | 👩🏻‍💻Machine Learning Engineer Intern | ❌[Detect Illegitimate Wechat Groups based on Network Analysis](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
-- 🇨🇳🛍️Winner Technology | 👩🏻‍💻Machine Learning Engineer Intern | 🎄[Predict and Interprect Customer Traffic of Malls](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
-- Natural Language Understanding | 🤔[Probe GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
-- Deep Learning | 🏥[Automatic Detection of Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/1g-7yjENwnTiIZKpoXGRvsz-VsQZ-0ULM/view?usp=sharing)
-- Recommender System | 🎵[Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1aUM3ATKp9WLJIt0vwycbDnSaQt4D0PUt/view?usp=sharing)
-- Recommender System | 🍜[Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
-- Kaggle Competition | 💳[Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
+- 🇺🇸🏦 Deustche Bank | 👩🏻‍💻 Data Scientist | Working in Anti-Financial Crime Group
+- 🇺🇸🏫 New York University | 👩‍🏫 Teaching Assistant & Grader (Section Leader) | 💜 [Prepare and Conduct Lab Sessions](https://github.com/wendyZhang98/Lab_Sessions_Capstone)
+- 🇺🇸💊Boehringer Ingelheim | 👩🏻‍💻 Data Scientist Intern | 🐶 [Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://github.com/wendyZhang98/boehringer-ingelheim-cds)
+- 🇺🇸💻AlphaPoint | 👩🏻‍💻 Data Engineer Intern | 💰 [Build ETL to Auto-Generate Reports & Design Dashboard to Monitor Transactions](https://drive.google.com/file/d/18-Qe0sBw5E7JTZEq8E3CdZG59iN9HvFG/view?usp=sharing)
+- 🇨🇳💬Tencent | 👩🏻‍💻 Machine Learning Engineer Intern | ❌ [Detect Illegitimate Wechat Groups based on Network Analysis](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
+- 🇨🇳🛍️Winner Technology | 👩🏻‍💻 Machine Learning Engineer Intern | 🎄 [Predict and Interprect Customer Traffic of Malls](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
+- Natural Language Understanding | 🤔 [Probe GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
+- Deep Learning | 🏥 [Detect Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/1g-7yjENwnTiIZKpoXGRvsz-VsQZ-0ULM/view?usp=sharing)
+- Recommender System | 🎵 [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1aUM3ATKp9WLJIt0vwycbDnSaQt4D0PUt/view?usp=sharing)
+- Recommender System | 🍜 [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
+- Kaggle Competition | 💳 [Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
   
 <!--  ### :four_leaf_clover: Area of Strength
 • Lay a solid foundation in mathematics including calculus, probability and statistics, and linear algebra; mastering skills such as regression, classification, clustering, dimension reduction, and hypothesis testing
