@@ -91,7 +91,7 @@
  
 ---
   
-### :medal_military: Data Science Skills
+### :medal_military: ML Skills
   
 - Big Data: SQL, PySpark, Dask, Apache Hadoop
 - Web Scrapping: BeautifulSoup, Requests, HTML
