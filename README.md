@@ -18,10 +18,14 @@
   
 Wenxin Zhang
    ---
+   
+ - 🗽 I graduated from [NYU Center for Data Science](https://cds.nyu.edu/) on 2022 May, where I took courses including [Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython); Probabilities and Statistics; [Machine Learning](https://nyu-ds1003.github.io/spring2021/#home); Big Data; [Capstone](https://github.com/wendyZhang98/DS-GA-1006-Capstone); [Deep Learning](https://bubbly-methane-e7a.notion.site/Deep-Learning-Fall-21-6dbea69b29994c4e88cd12a494e6b01f); Natural Language Processing; Natural Language Understanding; [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html); [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python); [Responsible Data Science](https://dataresponsibly.github.io/rds/).
   
- - 🗽I graduated from [NYU Center for Data Science](https://cds.nyu.edu/) on 2022 May, where I took courses including [Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython); Probabilities and Statistics; [Machine Learning](https://nyu-ds1003.github.io/spring2021/#home); Big Data; [Capstone](https://github.com/wendyZhang98/DS-GA-1006-Capstone); [Deep Learning](https://bubbly-methane-e7a.notion.site/Deep-Learning-Fall-21-6dbea69b29994c4e88cd12a494e6b01f); Natural Language Processing; Natural Language Understanding; [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html); [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python); [Responsible Data Science](https://dataresponsibly.github.io/rds/).
+- 🎯 I am endeavoring to play my role as a full-stack data scientist in the Finance Services & Media and Entertainment & Health and Life Sciences industries. It excites me most when I can create an impact in making data-supported decisions using statistics, machine learning, natural language processing, and deep learning techniques. 
   
-- 🎯I am endeavoring to play my role as a full-stack data scientist in the Finance Services & Media and Entertainment & Health and Life Sciences industries. It excites me most when I can create an impact in making data-supported decisions using statistics, machine learning, natural language processing, and deep learning techniques. As a new graduate, I find myself especially interested in fields such as data modeling, interpretable machine learning, fraud detection, and text data mining. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/wenxinzhang980719/) and follow me on [Medium](https://medium.com/@WenxinZhang98). 
+  As a new graduate, I find myself especially interested in fields such as data modeling, interpretable machine learning, fraud detection, and text data mining. 
+  
+- 🤗 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/wenxinzhang980719/) and follow me on [Medium](https://medium.com/@WenxinZhang98). 
 <!--   I begin to share learning notes and write original tutorials on [Medium]() since 2021. -->
 <!--   practice my programming skills by solving coding questions on [Leetcode](https://leetcode.com/user0957No/) since 2022;  -->
 <!--   participate in Data Science competitions on [Kaggle](https://www.kaggle.com/wenxin719) since 2019; -->
