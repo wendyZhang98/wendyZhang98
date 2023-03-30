@@ -25,7 +25,7 @@ Wenxin Zhang
   
 <!--   As a new graduate, I find myself especially interested in fields such as data modeling, interpretable machine learning, fraud detection, and text data mining.  -->
   
-- 🤗 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/wenxinzhang980719/) and follow me on [Medium](https://medium.com/@WenxinZhang98). 
+- 🤗 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/wenxinzhang980719/); follow me on [Medium](https://medium.com/@WenxinZhang98); reach out via wenxin.z0719@gmail.com.
 <!--   I begin to share learning notes and write original tutorials on [Medium]() since 2021. -->
 <!--   practice my programming skills by solving coding questions on [Leetcode](https://leetcode.com/user0957No/) since 2022;  -->
 <!--   participate in Data Science competitions on [Kaggle](https://www.kaggle.com/wenxin719) since 2019; -->
@@ -135,5 +135,3 @@ Wenxin Zhang
 </div>  
   
 <!--  --- -->
-
-Feel free to reach out via wenxin.z0719@gmail.com
