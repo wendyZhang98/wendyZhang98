@@ -94,16 +94,16 @@
 ### :medal_military: Data Science Skills
   
 - Big Data: SQL, PySpark, Dask, Apache Hadoop
-- Probability and Statistics: Random Variables, Statistical Models, Hypothesis Testing, Bayesian Methods
+- Web Scrapping: BeautifulSoup, Requests, HTML
 - Exploratory Data Analysis: Data Processing, Statistical Graphics 
+- Probability and Statistics: Random Variables, Statistical Models, Hypothesis Testing, Bayesian Methods
 - Data Visualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI, AWS Quicksight
 - Machine Learning Modeling: Regression, Classification, Clustering
 - Natural Language Processing: RNN, LSTM, GRU, Transformer, BERT, GPT, Keywords Extraction, Topic Modeling, Semantic Analysis
-- Deep Learning: Deep Neural Network, CNN, GANs, Auto-Encoders
-- Web Scrapping: BeautifulSoup, Requests, HTML
+- Deep Learning Modeling: Deep Neural Network, CNN, GANs, Auto-Encoders
 - Network Analysis: Networkx, Pyvis, Gravis
 - Cloud Computing: AWS, Docker
-- Backend Development: Flask
+<!-- - Backend Development: Flask -->
  
 
 ---
