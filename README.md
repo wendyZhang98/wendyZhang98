@@ -21,7 +21,7 @@ Wenxin Zhang
 <!--    [Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython);  -->
  - 🗽 I graduated from [NYU Center for Data Science](https://cds.nyu.edu/) on 2022 May, where I took advanced Data Science courses such as Probabilities and Statistics; [Machine Learning](https://nyu-ds1003.github.io/spring2021/#home); Big Data; [Capstone](https://github.com/wendyZhang98/DS-GA-1006-Capstone); [Deep Learning](https://bubbly-methane-e7a.notion.site/Deep-Learning-Fall-21-6dbea69b29994c4e88cd12a494e6b01f); Natural Language Processing; Natural Language Understanding; [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html); [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python); [Responsible Data Science](https://dataresponsibly.github.io/rds/).
   
-- 🎯 I am endeavoring to play my role as a full-stack data scientist in the Finance Services & Media and Entertainment & Health and Life Sciences industries. 
+- 🎯 I am located in New York city, endeavoring to play my role as a full-stack data scientist in the Finance Services & Media and Entertainment & Health and Life Sciences industries. 
 <!--   It excites me most when I can create an impact in making data-supported decisions using statistics, machine learning, natural language processing, and deep learning techniques.  -->
   
 <!--   As a new graduate, I find myself especially interested in fields such as data modeling, interpretable machine learning, fraud detection, and text data mining.  -->
