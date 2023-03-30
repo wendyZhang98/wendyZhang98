@@ -23,7 +23,7 @@ Wenxin Zhang
   
 - 🎯 I am endeavoring to play my role as a full-stack data scientist in the Finance Services & Media and Entertainment & Health and Life Sciences industries. It excites me most when I can create an impact in making data-supported decisions using statistics, machine learning, natural language processing, and deep learning techniques. 
   
-  As a new graduate, I find myself especially interested in fields such as data modeling, interpretable machine learning, fraud detection, and text data mining. 
+<!--   As a new graduate, I find myself especially interested in fields such as data modeling, interpretable machine learning, fraud detection, and text data mining.  -->
   
 - 🤗 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/wenxinzhang980719/) and follow me on [Medium](https://medium.com/@WenxinZhang98). 
 <!--   I begin to share learning notes and write original tutorials on [Medium]() since 2021. -->
