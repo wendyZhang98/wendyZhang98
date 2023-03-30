@@ -17,7 +17,9 @@
 </div>
   
 Wenxin Zhang
+  
    ---
+  
 <!--    [Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython);  -->
  - 🗽 I graduated from [NYU Center for Data Science](https://cds.nyu.edu/) on 2022 May, where I took advanced DS courses including Probabilities and Statistics, [Machine Learning](https://nyu-ds1003.github.io/spring2021/#home), Big Data, [Capstone](https://github.com/wendyZhang98/DS-GA-1006-Capstone), [Deep Learning](https://bubbly-methane-e7a.notion.site/Deep-Learning-Fall-21-6dbea69b29994c4e88cd12a494e6b01f), Natural Language Processing, Natural Language Understanding, [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html), [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python), and [Responsible Data Science](https://dataresponsibly.github.io/rds/).
   
