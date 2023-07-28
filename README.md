@@ -25,7 +25,7 @@
 ### :medal_military: Education 
 <!--    [Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython);  -->
  - 🗽 I graduated from [NYU Center for Data Science](https://cds.nyu.edu/) on 2022 May, where I took advanced DS courses including Probabilities and Statistics, [Machine Learning](https://nyu-ds1003.github.io/spring2021/#home), Big Data, [Capstone](https://github.com/wendyZhang98/DS-GA-1006-Capstone), [Deep Learning](https://bubbly-methane-e7a.notion.site/Deep-Learning-Fall-21-6dbea69b29994c4e88cd12a494e6b01f), Natural Language Processing, Natural Language Understanding, [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html), [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python), and [Responsible Data Science](https://dataresponsibly.github.io/rds/).
-
+ - 👧 Presently, I am employed as a software developer and data analyst in New York City, with a cumulative work experience of 2 years in the Financial Services, Healthcare, and Media & Entertainment industries. My passion lies in continuously learning computer science techniques and utilizing them adeptly to address real-world challenges with intelligence and ingenuity. This pursuit of knowledge and its practical application never fails to inspire me.
  
   
 <!--   It excites me most when I can create an impact in making data-supported decisions using statistics, machine learning, natural language processing, and deep learning techniques.  -->
@@ -64,8 +64,9 @@
   
 <!-- 🎯  -->
 <!-- I have 2 years of work experience in industries of Financial Services, Healthcare, and Media & Entertainment. I am endeavoring to play my role as a full-stack data scientist.  -->
-    
-- 🇺🇸🏦 Deustche Bank | 👩🏻‍💻 Data Scientist | 🎯 Engineer Transaction Features & Implement Network Visualization and Analysis 
+
+- 🇺🇸🏦 Bank of China (NY) | 👩🏻‍💻 Software Developer | ⛲️ Develop Online Platforms to support business requirements and bank-wide risk management
+- 🇺🇸🏦 Deustche Bank (NY) | 👩🏻‍💻 Data Scientist | 🎯 Engineer Transaction Features & Implement Network Visualization and Analysis 
 - 🇺🇸🏫 New York University | 👩🏻‍💻 Teaching Assistant & Grader | 💜 [Prepare for and Conduct Lab Sessions & Grade Assignments](https://github.com/wendyZhang98/Lab_Sessions_Capstone)
 - 🇺🇸💊 Boehringer Ingelheim | 👩🏻‍💻 Data Scientist Intern | 🐶 [Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://github.com/wendyZhang98/boehringer-ingelheim-cds)
 - 🇺🇸💻 AlphaPoint | 👩🏻‍💻 Software Engineer Intern | 💰 [Autogenerate Financial Reports using ETL & Build Monitoring Dashboard](https://drive.google.com/file/d/18-Qe0sBw5E7JTZEq8E3CdZG59iN9HvFG/view?usp=sharing)
