@@ -65,7 +65,7 @@
 <!-- 🎯  -->
 <!-- I have 2 years of work experience in industries of Financial Services, Healthcare, and Media & Entertainment. I am endeavoring to play my role as a full-stack data scientist.  -->
 
-- 🇺🇸🏦 Bank of China (NY) | 👩🏻‍💻 Software Developer | ⛲️ Develop Softwares to Support FLU Business and Bank-Wide Risk Management
+- 🇺🇸🏦 Bank of China (NY) | 👩🏻‍💻 Software Developer | ⛲️ Develop Softwares to Support FLU Business and Interal Risk Management
 - 🇺🇸🏦 Deustche Bank (NY) | 👩🏻‍💻 Data Scientist | 🎯 Engineer Transaction Features & Implement Network Visualization and Analysis 
 - 🇺🇸🏫 New York University | 👩🏻‍💻 Teaching Assistant & Grader | 💜 [Prepare for and Conduct Lab Sessions & Grade Assignments](https://github.com/wendyZhang98/Lab_Sessions_Capstone)
 - 🇺🇸💊 Boehringer Ingelheim | 👩🏻‍💻 Data Scientist Intern | 🐶 [Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://github.com/wendyZhang98/boehringer-ingelheim-cds)
