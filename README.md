@@ -66,9 +66,9 @@
   
 <!-- 🎯  -->
 <!-- I have 2 years of work experience in industries of Financial Services, Healthcare, and Media & Entertainment. I am endeavoring to play my role as a full-stack data scientist.  -->
-- 🇺🇸🏦 ExodusPoint (NY) | 👩🏻‍💻 Quantitative Researcher | 📈 Forecast Financial Statement KPIs using Consumer Edge Transaction data
+- 🇺🇸🏦 ExodusPoint (NY) | 👩🏻‍💻 Quantitative Researcher | 📈 Forecast Financial Statement KPIs using CE Transaction data
 - 🇺🇸🏦 Bank of China (NY) | 👩🏻‍💻 Analytics Developer | ⛲️ Develop Access Platforms to Support Bank-Wide Risk Management BAU
-- 🇺🇸🏦 Deustche Bank (NY) | 👩🏻‍💻 Data Scientist | 🎯 Engineer Transaction Features & Implement Network Visualization and Analysis 
+- 🇺🇸🏦 Deustche Bank (NY) | 👩🏻‍💻 Data Scientist | 🎯 Engineer Transaction Features & Implement Network Analysis 
 - 🇺🇸🏫 New York University | 👩🏻‍💻 Teaching Assistant & Grader | 💜 [Prepare for and Conduct Lab Sessions & Grade Assignments](https://github.com/wendyZhang98/Lab_Sessions_Capstone)
 - 🇺🇸💊 Boehringer Ingelheim | 👩🏻‍💻 Data Scientist Intern | 🐶 [Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://github.com/wendyZhang98/boehringer-ingelheim-cds)
 - 🇺🇸💻 AlphaPoint | 👩🏻‍💻 Software Engineer Intern | 💰 [Autogenerate Financial Reports using ETL & Build Monitoring Dashboard](https://drive.google.com/file/d/18-Qe0sBw5E7JTZEq8E3CdZG59iN9HvFG/view?usp=sharing)
