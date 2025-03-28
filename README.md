@@ -66,7 +66,7 @@
   
 <!-- 🎯  -->
 <!-- I have 2 years of work experience in industries of Financial Services, Healthcare, and Media & Entertainment. I am endeavoring to play my role as a full-stack data scientist.  -->
-- 🇺🇸🏦 ExodusPoint (NY) | 👩🏻‍💻 Quantitative Researcher | 📈 Generate Insights from Alternative Datasets Supporting Long/Short Equity PMs
+- 🇺🇸🏦 ExodusPoint (NY) | 👩🏻‍💻 Quantitative Researcher | 📈 Generate Insights from Alternative Datasets
 - 🇺🇸🏦 Bank of China (NY) | 👩🏻‍💻 Analytics Developer | ⛲️ Develop Access Platforms to Support Bank-Wide Risk Management BAU
 - 🇺🇸🏦 Deustche Bank (NY) | 👩🏻‍💻 Data Scientist | 🎯 Engineer Transaction Features & Implement Network Analysis 
 - 🇺🇸🏫 New York University | 👩🏻‍💻 Teaching Assistant & Grader | 💜 [Prepare for and Conduct Lab Sessions & Grade Assignments](https://github.com/wendyZhang98/Lab_Sessions_Capstone)
