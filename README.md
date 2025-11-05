@@ -23,7 +23,7 @@
 
 ---
 
-### :medal_military: Education 
+### 🎓 Education 
 <!--    [Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython);  -->
  - 🗽 I graduated from [NYU Center for Data Science](https://cds.nyu.edu/) on 2022 May, where I took advanced DS courses including Probabilities and Statistics, [Machine Learning](https://nyu-ds1003.github.io/spring2021/#home), Big Data, [Capstone](https://github.com/wendyZhang98/DS-GA-1006-Capstone), [Deep Learning](https://bubbly-methane-e7a.notion.site/Deep-Learning-Fall-21-6dbea69b29994c4e88cd12a494e6b01f), Natural Language Processing, Natural Language Understanding, [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html), [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python), and [Responsible Data Science](https://dataresponsibly.github.io/rds/).
 <!--    ✨ Presently, I am a software developer & data scientist working in New York City, with a cumulative experience of 2 years in the Financial Services, Healthcare, and Media & Entertainment industries. My passion lies in continuously learning computer science techniques and utilizing them adeptly to address real-world challenges with intelligence and ingenuity. This pursuit of knowledge and its practical application never fails to inspire me. -->
@@ -31,7 +31,7 @@
  - ✨ Currently, I am a Data Scientist based in New York City, with 2 years of experience in the Financial industry. My passion lies in applying advanced data science and quantitative techniques to solve complex financial challenges. I continuously seek to enhance my skills in financial modeling, statistics, and machine learning, always striving to combine theory with real-world application to drive insightful, data-driven decisions.
 
 
-### :medal_military: Projects at School
+### 📚 Projects at School
 - 👩🏻‍💻 Natural Language Understanding | 🤔 [Probe GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
 - 👩🏻‍💻 Deep Learning | 🏥 [Detect Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/15dfxUC-I_FMljcihrA5UY-DTof-lyJdq/view?usp=sharing)
 - 👩🏻‍💻 Recommender System | 🎵 [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1dOB6UXTev_PWtpAjX3P8z8Aqp7wr6-uu/view?usp=sharing)
@@ -71,7 +71,7 @@
 
    ---
   
-### :medal_military: Work Experience 
+### 💼 Work Experience 
   
 <!-- 🎯  -->
 <!-- I have 2 years of work experience in the industries of Financial Services, Healthcare, and Media & Entertainment. I am endeavoring to play my role as a full-stack data scientist.  -->
@@ -85,10 +85,10 @@
 - 🇨🇳🛍️ Winner Technology | 👩🏻‍💻 Machine Learning Engineer Intern | 🎄 Predict and Interprect Customer Traffic of Malls
 
 
-### :medal_military: Skillset
+### 🔨 Skillset
   
 - Big Data: SQL, PySpark, Dask, Apache Hadoop
-- Web Scrapping: BeautifulSoup, Requests, HTML
+- Web Scraping: BeautifulSoup, Requests, HTML
 - Exploratory Data Analysis: Data Processing, Statistical Graphics 
 - Probability and Statistics: Random Variables, Statistical Models, Hypothesis Testing, Bayesian Methods
 - Data Visualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI, AWS Quicksight
