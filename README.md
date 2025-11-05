@@ -112,53 +112,12 @@
  
 ---
   
-### :medal_military: Programming Languages
+### 🖥️ Programming Languages & Tools
 
-  - Python (Numpy, Pandas, Xarray, Scipy, Sklearn, Seaborn, PyTorch), R, Javascript, Matlab, SQL, HTML, Bash
-  
-<div>
-<!--   # python -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="60" height="60"/>&nbsp;
-<!--   # r -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r" alt="r" width="60" height="60"/>&nbsp;
-<!--   # mysql -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="60" height="60"/>&nbsp;
-<!--   # sqlite -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="60" height="60"/>&nbsp;
-<!--   # pytorch -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="60" height="60"/>&nbsp;
-<!--   # tensorflow -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="tensorflow" alt="tensorflow" width="60" height="60"/>&nbsp;
-<!--   # git  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="60" height="60"/>&nbsp;
-<!--   # github -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="60" height="60"/>&nbsp;
-<!--   # aws -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="60" height="60"/>&nbsp;
-<!--   # anaconda -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="60" height="60"/>&nbsp;
-<!--   # docker -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="60" height="60"/>&nbsp;
-<!--   # jupyter -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="60" height="60"/>&nbsp; 
-<!--   # kaggle -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" alt="kaggle" width="60" height="60"/>&nbsp;  
-<!--   # latex -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="60" height="60"/>&nbsp;  
-<!--   # matlab -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="60" height="60"/>&nbsp; 
-<!--   # networkx -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="networkx" alt="networkx" width="60" height="60"/>&nbsp; 
-<!--   # pandas -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="60" height="60"/>&nbsp; 
-<!--   # pycharm -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="60" height="60"/>&nbsp; 
-<!--   # ssh -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" alt="ssh" width="60" height="60"/>&nbsp;   <!--   # html5 -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html" alt="html" width="60" height="60"/>&nbsp;   
-</div>
+- Python (NumPy, Pandas, Xarray, SciPy, Scikit-learn, Seaborn, PyTorch)
+- R, JavaScript, Matlab, SQL, HTML, Bash
 
-  
+<div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="TensorFlow" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" width="55"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="55"/>&nbsp; </div>  
   
 <!-- --- -->
 
