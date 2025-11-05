@@ -19,7 +19,6 @@
 ### Wenxin Zhang
 - [Linkedin](https://www.linkedin.com/in/wenxinzhang980719/)
 - [Medium](https://medium.com/@WenxinZhang98)
-- [Douban](https://www.douban.com/people/wenxinz0719/?_i=54525996_CPuc4,7435178kcOY4qs)
 
 ---
 
