@@ -81,7 +81,7 @@
 - 👩🏻‍💻 Natural Language Understanding | 🤔 [Probe GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
 - 👩🏻‍💻 Deep Learning | 🏥 [Detect Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/15dfxUC-I_FMljcihrA5UY-DTof-lyJdq/view?usp=sharing)
 - 👩🏻‍💻 Recommender System | 🎵 [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1dOB6UXTev_PWtpAjX3P8z8Aqp7wr6-uu/view?usp=sharing)
-- 👩🏻‍💻 Recommender System | 🍜 [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
+- 👩🏻‍💻 Recommender System | 🍜 [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers/blob/main/DSGA1001_project_Yelp_RecSys.pdf)
 - 👩🏻‍💻 Kaggle Competition | 💳 [Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
   
 <!--  ### :four_leaf_clover: Area of Strength
