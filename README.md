@@ -16,8 +16,12 @@
   <img src="https://komarev.com/ghpvc/?username=wendyZhang98&style=flat-square&color=blue" alt=""/>
 </div>
   
-### 👀 Wenxin Zhang
----
+<div align="center">
+
+### 👀 Wenxin (Wendy) Zhang
+
+</div>
+
 
 ### 🎓 Education 
 <!--    [Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython);  -->
