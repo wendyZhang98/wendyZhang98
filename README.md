@@ -85,6 +85,8 @@
 - 🇨🇳🛍️ Winner Technology | 👩🏻‍💻 Machine Learning Engineer Intern | 🎄 Predict and Interprect Customer Traffic of Malls
 
 
+--- 
+
 ### 🔨 Skillset
 
 - 🐍 **Programming & Libraries:** Python, SQL, R, Git, Numpy, Pandas, Xarray, Scikit-Learn, PyTorch, TensorFlow  
