@@ -29,7 +29,16 @@
 <!--    ✨ Presently, I am a software developer & data scientist working in New York City, with a cumulative experience of 2 years in the Financial Services, Healthcare, and Media & Entertainment industries. My passion lies in continuously learning computer science techniques and utilizing them adeptly to address real-world challenges with intelligence and ingenuity. This pursuit of knowledge and its practical application never fails to inspire me. -->
 
  - ✨ Currently, I am a Data Scientist based in New York City, with 2 years of experience in the Financial industry. My passion lies in applying advanced data science and quantitative techniques to solve complex financial challenges. I continuously seek to enhance my skills in financial modeling, statistics, and machine learning, always striving to combine theory with real-world application to drive insightful, data-driven decisions.
-  
+
+
+### :medal_military: Projects at School
+- 👩🏻‍💻 Natural Language Understanding | 🤔 [Probe GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
+- 👩🏻‍💻 Deep Learning | 🏥 [Detect Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/15dfxUC-I_FMljcihrA5UY-DTof-lyJdq/view?usp=sharing)
+- 👩🏻‍💻 Recommender System | 🎵 [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1dOB6UXTev_PWtpAjX3P8z8Aqp7wr6-uu/view?usp=sharing)
+- 👩🏻‍💻 Recommender System | 🍜 [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers/blob/main/DSGA1001_project_Yelp_RecSys.pdf)
+- 👩🏻‍💻 Kaggle Competition | 💳 [Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
+
+
 <!--   It excites me most when I can create an impact in making data-supported decisions using statistics, machine learning, natural language processing, and deep learning techniques.  -->
   
 <!--   As a new graduate, I find myself especially interested in fields such as data modeling, interpretable machine learning, fraud detection, and text data mining.  -->
@@ -76,13 +85,7 @@
 - 🇨🇳🛍️ Winner Technology | 👩🏻‍💻 Machine Learning Engineer Intern | 🎄 Predict and Interprect Customer Traffic of Malls
 
 --- 
-  
-### :medal_military: Projects
-- 👩🏻‍💻 Natural Language Understanding | 🤔 [Probe GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
-- 👩🏻‍💻 Deep Learning | 🏥 [Detect Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/15dfxUC-I_FMljcihrA5UY-DTof-lyJdq/view?usp=sharing)
-- 👩🏻‍💻 Recommender System | 🎵 [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1dOB6UXTev_PWtpAjX3P8z8Aqp7wr6-uu/view?usp=sharing)
-- 👩🏻‍💻 Recommender System | 🍜 [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers/blob/main/DSGA1001_project_Yelp_RecSys.pdf)
-- 👩🏻‍💻 Kaggle Competition | 💳 [Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
+
   
 <!--  ### :four_leaf_clover: Area of Strength
 • Lay a solid foundation in mathematics, including calculus, probability and statistics, and linear algebra; mastering skills such as regression, classification, clustering, dimension reduction, and hypothesis testing
