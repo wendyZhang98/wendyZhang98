@@ -72,7 +72,7 @@
 - 🇺🇸🏫 New York University | 👩🏻‍💻 Teaching Assistant & Grader | 💜 Prepare for and Conduct Lab Sessions & Grade Assignments
 - 🇺🇸💊 Boehringer Ingelheim | 👩🏻‍💻 Data Scientist Intern | 🐶 Predict Pharmaceutical Product Sales & Cluster Descriptive Text
 - 🇺🇸💻 AlphaPoint | 👩🏻‍💻 Software Engineer Intern | 💰 Autogenerate Financial Reports using ETL & Build Monitoring Dashboard
-- 🇨🇳💬 Tencent | 👩🏻‍💻 Machine Learning Engineer Intern | ❌ Detect Illegitimate Wechat Groups via Data Mining
+- 🇨🇳💬 Tencent | 👩🏻‍💻 Machine Learning Engineer Intern | 🔍 Detect Illegitimate Wechat Groups via Data Mining
 - 🇨🇳🛍️ Winner Technology | 👩🏻‍💻 Machine Learning Engineer Intern | 🎄 Predict and Interprect Customer Traffic of Malls
 
 --- 
