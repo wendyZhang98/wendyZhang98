@@ -76,7 +76,7 @@
 <!-- 🎯  -->
 <!-- I have 2 years of work experience in the industries of Financial Services, Healthcare, and Media & Entertainment. I am endeavoring to play my role as a full-stack data scientist.  -->
 - 🇺🇸🏦 ExodusPoint (NY) | 👩🏻‍💻 Quantitative Researcher | 📈 Generate Insights from Alt Data for Fundamental Trading
-- 🇺🇸🏦 Bank of China (NY) | 👩🏻‍💻 Analytics Developer | ⛲️ Develop Access Platforms to Support Bank-Wide Risk Management BAU
+- 🇺🇸🏦 Bank of China (NY) | 👩🏻‍💻 Analytics Developer | ⛲️ Design Processes and Develop Platforms for Building Bank-Wide Risk Profiles
 - 🇺🇸🏦 Deustche Bank (NY) | 👩🏻‍💻 Data Scientist | 🎯 Engineer Transaction Features & Implement Network Analysis 
 - 🇺🇸🏫 New York University | 👩🏻‍💻 Teaching Assistant & Grader | 💜 Prepare for and Conduct Lab Sessions & Grade Assignments
 - 🇺🇸💊 Boehringer Ingelheim | 👩🏻‍💻 Data Scientist Intern | 🐶 Predict Pharmaceutical Product Sales & Cluster Descriptive Text
