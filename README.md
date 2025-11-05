@@ -111,7 +111,8 @@
 • Master knowledge in large-scale data management and parallel computing; using frameworks such as SQL, HDFS, and Spark
   
 • Program in Python; fluently using scientific computing tools including Scipy, Numpy, Pandas, and Ipython; visualization methods including Matplotlib, Tableau, and Seaborn; machine learning tools including Scikit-Learn, NLTK, Pytorch, Tensorflow, and Keras --> 
-  
+
+  --- 
 ### 🖥️ Programming Languages & Tools
 
 - Python (NumPy, Pandas, Xarray, SciPy, Scikit-learn, Seaborn, PyTorch)
