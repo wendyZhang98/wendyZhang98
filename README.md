@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=wendyZhang98&style=flat-square&color=blue" alt=""/>
 </div>
   
-### Wenxin Zhang
+### 👀 Wenxin Zhang
 - [Linkedin](https://www.linkedin.com/in/wenxinzhang980719/)
 - [Medium](https://medium.com/@WenxinZhang98)
 
