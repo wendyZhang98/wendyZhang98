@@ -69,11 +69,11 @@
 - 🇺🇸🏦 ExodusPoint (NY) | 👩🏻‍💻 Quantitative Researcher | 📈 Generate Insights from Alternative Datasets
 - 🇺🇸🏦 Bank of China (NY) | 👩🏻‍💻 Analytics Developer | ⛲️ Develop Access Platforms to Support Bank-Wide Risk Management BAU
 - 🇺🇸🏦 Deustche Bank (NY) | 👩🏻‍💻 Data Scientist | 🎯 Engineer Transaction Features & Implement Network Analysis 
-- 🇺🇸🏫 New York University | 👩🏻‍💻 Teaching Assistant & Grader | 💜 [Prepare for and Conduct Lab Sessions & Grade Assignments](https://github.com/wendyZhang98/Lab_Sessions_Capstone)
-- 🇺🇸💊 Boehringer Ingelheim | 👩🏻‍💻 Data Scientist Intern | 🐶 [Predict Pharmaceutical Product Sales & Cluster Descriptive Text](https://github.com/wendyZhang98/boehringer-ingelheim-cds)
-- 🇺🇸💻 AlphaPoint | 👩🏻‍💻 Software Engineer Intern | 💰 [Autogenerate Financial Reports using ETL & Build Monitoring Dashboard](https://drive.google.com/file/d/18-Qe0sBw5E7JTZEq8E3CdZG59iN9HvFG/view?usp=sharing)
-- 🇨🇳💬 Tencent | 👩🏻‍💻 Machine Learning Engineer Intern | ❌ [Detect Illegitimate Wechat Groups via Data Mining](https://github.com/wendyZhang98/Detect-Illegitimate-Wechat-Groups)
-- 🇨🇳🛍️ Winner Technology | 👩🏻‍💻 Machine Learning Engineer Intern | 🎄 [Predict and Interprect Customer Traffic of Malls](https://github.com/wendyZhang98/Consumer-Traffic-Prediction-and-Interpretation)
+- 🇺🇸🏫 New York University | 👩🏻‍💻 Teaching Assistant & Grader | 💜 Prepare for and Conduct Lab Sessions & Grade Assignments
+- 🇺🇸💊 Boehringer Ingelheim | 👩🏻‍💻 Data Scientist Intern | 🐶 Predict Pharmaceutical Product Sales & Cluster Descriptive Text
+- 🇺🇸💻 AlphaPoint | 👩🏻‍💻 Software Engineer Intern | 💰 Autogenerate Financial Reports using ETL & Build Monitoring Dashboard
+- 🇨🇳💬 Tencent | 👩🏻‍💻 Machine Learning Engineer Intern | ❌ Detect Illegitimate Wechat Groups via Data Mining
+- 🇨🇳🛍️ Winner Technology | 👩🏻‍💻 Machine Learning Engineer Intern | 🎄 Predict and Interprect Customer Traffic of Malls
 
 --- 
   
