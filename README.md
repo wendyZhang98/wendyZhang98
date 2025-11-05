@@ -86,17 +86,20 @@
 
 
 ### 🔨 Skillset
-  
-- Big Data: SQL, PySpark, Dask, Apache Hadoop
-- Web Scraping: BeautifulSoup, Requests, HTML
-- Exploratory Data Analysis: Data Processing, Statistical Graphics 
-- Probability and Statistics: Random Variables, Statistical Models, Hypothesis Testing, Bayesian Methods
-- Data Visualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI, AWS Quicksight
-- Machine Learning Modeling: Regression, Classification, Clustering
-- Natural Language Processing: RNN, LSTM, GRU, Transformer, BERT, GPT, Keywords Extraction, Topic Modeling, Semantic Analysis
-- Deep Learning Modeling: Deep Neural Network, CNN, GANs, Auto-Encoders
-- Network Analysis: Networkx, Pyvis, Gravis
-- Cloud Computing: AWS, Docker
+
+- 🐍 **Programming & Libraries:** Python, SQL, R, Git, Numpy, Pandas, Xarray, Scikit-Learn, PyTorch, TensorFlow  
+- 🧱 **Big Data & Pipeline:** PySpark, Dask, Apache Hadoop, ETL, CI/CD, Databricks  
+- 🌐 **Web Scraping:** BeautifulSoup, Requests, HTML Parsing  
+- 🔍 **Exploratory Data Analysis:** Data Cleaning, Feature Engineering, Statistical Graphics  
+- 📊 **Probability and Statistics:** Random Variables, Statistical Modeling, Hypothesis Testing, Bayesian Methods  
+- 🎨 **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI, AWS Quicksight  
+- 🧠 **Machine Learning Modeling:** Regression, Classification, Clustering, Time-Series Forecasting  
+- 💬 **Natural Language Processing:** RNN, LSTM, GRU, Transformer, BERT, GPT, Keywords Extraction, Topic Modeling, Semantic Analysis  
+- 🧬 **Deep Learning Modeling:** Deep Neural Network, CNN, GANs, Auto-Encoders  
+- 🕸️ **Network Analysis:** NetworkX, Pyvis, Gravis  
+- ☁️ **Cloud Computing:** AWS, Google Cloud, Docker  
+
+
 <!-- - Backend Development: Flask -->
 
   
