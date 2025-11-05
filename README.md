@@ -84,20 +84,8 @@
 - 🇨🇳💬 Tencent | 👩🏻‍💻 Machine Learning Engineer Intern | 🔍 Detect Illegitimate Wechat Groups via Data Mining
 - 🇨🇳🛍️ Winner Technology | 👩🏻‍💻 Machine Learning Engineer Intern | 🎄 Predict and Interprect Customer Traffic of Malls
 
---- 
 
-  
-<!--  ### :four_leaf_clover: Area of Strength
-• Lay a solid foundation in mathematics, including calculus, probability and statistics, and linear algebra; mastering skills such as regression, classification, clustering, dimension reduction, and hypothesis testing
-
-• Master knowledge in large-scale data management and parallel computing; using frameworks such as SQL, HDFS, and Spark
-  
-• Program in Python; fluently using scientific computing tools including Scipy, Numpy, Pandas, and Ipython; visualization methods including Matplotlib, Tableau, and Seaborn; machine learning tools including Scikit-Learn, NLTK, Pytorch, Tensorflow, and Keras --> 
- 
- 
----
-  
-### :medal_military: ML Skills
+### :medal_military: Skillset
   
 - Big Data: SQL, PySpark, Dask, Apache Hadoop
 - Web Scrapping: BeautifulSoup, Requests, HTML
@@ -110,13 +98,20 @@
 - Network Analysis: Networkx, Pyvis, Gravis
 - Cloud Computing: AWS, Docker
 <!-- - Backend Development: Flask -->
- 
 
+  
+<!--  ### :four_leaf_clover: Area of Strength
+• Lay a solid foundation in mathematics, including calculus, probability and statistics, and linear algebra; mastering skills such as regression, classification, clustering, dimension reduction, and hypothesis testing
+
+• Master knowledge in large-scale data management and parallel computing; using frameworks such as SQL, HDFS, and Spark
+  
+• Program in Python; fluently using scientific computing tools including Scipy, Numpy, Pandas, and Ipython; visualization methods including Matplotlib, Tableau, and Seaborn; machine learning tools including Scikit-Learn, NLTK, Pytorch, Tensorflow, and Keras --> 
+ 
 ---
   
 ### :medal_military: Programming Languages
 
-  - Python (Numpy, Pandas, Sklearn, Seaborn, PyTorch), R, Javascript, Matlab, SQL, HTML, Bash
+  - Python (Numpy, Pandas, Xarray, Scipy, Sklearn, Seaborn, PyTorch), R, Javascript, Matlab, SQL, HTML, Bash
   
 <div>
 <!--   # python -->
