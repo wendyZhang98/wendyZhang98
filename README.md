@@ -18,10 +18,11 @@
   
 <div align="center">
 
-### 👀 Wenxin (Wendy) Zhang
+### Wenxin (Wendy) Zhang 🚶
 
 </div>
 
+---
 
 ### 🎓 Education 
 <!--    [Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython);  -->
