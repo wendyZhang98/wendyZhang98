@@ -24,21 +24,24 @@
 
 ---
 
-### 🎓 Education 
+### Education 
 <!--    [Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython);  -->
- - 🗽 I graduated from [NYU Center for Data Science](https://cds.nyu.edu/) on 2022 May, where I took advanced DS courses including Probabilities and Statistics, [Machine Learning](https://nyu-ds1003.github.io/spring2021/#home), Big Data, [Capstone](https://github.com/wendyZhang98/DS-GA-1006-Capstone), [Deep Learning](https://bubbly-methane-e7a.notion.site/Deep-Learning-Fall-21-6dbea69b29994c4e88cd12a494e6b01f), Natural Language Processing, Natural Language Understanding, [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html), [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python), and [Responsible Data Science](https://dataresponsibly.github.io/rds/).
+I graduated from the [NYU Center for Data Science](https://cds.nyu.edu/) in May 2022 as a **top 5% student (GPA: 3.97/4.0)**, where I completed a rigorous curriculum of advanced data science and machine learning courses, including Probabilities and Statistics, [Machine Learning](https://nyu-ds1003.github.io/spring2021/#home), Big Data, [Capstone](https://github.com/wendyZhang98/DS-GA-1006-Capstone), [Deep Learning](https://bubbly-methane-e7a.notion.site/Deep-Learning-Fall-21-6dbea69b29994c4e88cd12a494e6b01f), Natural Language Processing, Natural Language Understanding, [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html), [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python), and [Responsible Data Science](https://dataresponsibly.github.io/rds/).
+
 <!--    ✨ Presently, I am a software developer & data scientist working in New York City, with a cumulative experience of 2 years in the Financial Services, Healthcare, and Media & Entertainment industries. My passion lies in continuously learning computer science techniques and utilizing them adeptly to address real-world challenges with intelligence and ingenuity. This pursuit of knowledge and its practical application never fails to inspire me. -->
 
- - ✨ Currently, I am a Data Scientist based in New York City, with 3 years of experience in the Financial industry. My passion lies in applying advanced data science and quantitative techniques to solve complex financial challenges. I continuously seek to enhance my skills in financial modeling, statistics, and machine learning, always striving to combine theory with real-world application to drive insightful, data-driven decisions.
+#### 👩🏻‍💻  Projects at School
+- Natural Language Understanding | 🤔 [Probe GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
+- Deep Learning | 🏥 [Detect Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/15dfxUC-I_FMljcihrA5UY-DTof-lyJdq/view?usp=sharing)
+- Recommender System | 🎵 [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1dOB6UXTev_PWtpAjX3P8z8Aqp7wr6-uu/view?usp=sharing)
+- Recommender System | 🍜 [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers/blob/main/DSGA1001_project_Yelp_RecSys.pdf)
+- Kaggle Competition | 💳 [Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
 
-
-### 📚 Projects at School
-- 👩🏻‍💻 Natural Language Understanding | 🤔 [Probe GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
-- 👩🏻‍💻 Deep Learning | 🏥 [Detect Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/15dfxUC-I_FMljcihrA5UY-DTof-lyJdq/view?usp=sharing)
-- 👩🏻‍💻 Recommender System | 🎵 [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1dOB6UXTev_PWtpAjX3P8z8Aqp7wr6-uu/view?usp=sharing)
-- 👩🏻‍💻 Recommender System | 🍜 [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers/blob/main/DSGA1001_project_Yelp_RecSys.pdf)
-- 👩🏻‍💻 Kaggle Competition | 💳 [Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
-
+#### 🧑‍🏫 TA Experience
+| Institution | Role                                | Summary                                                         |
+|-------------|--------------------------------------|------------------------------------------------------------------|
+| 🇺🇸 NYU | 💜 Grader of DS-GA 1019 (Spring 2023) | Evaluate coding work for **Advanced Python for Data Science**       |
+| 🇺🇸 NYU | 💜 TA & Grader of DS-GA 1006 (Fall 2022) | Lead **ML/DS labs** and **grade technical assignments**             |
 
 <!--   It excites me most when I can create an impact in making data-supported decisions using statistics, machine learning, natural language processing, and deep learning techniques.  -->
   
@@ -71,24 +74,30 @@
   </a> -->
 
    ---
-  
-### 🧱 Full-Time Experience
-🇺🇸🏦 ExodusPoint (NY) | 📊 Quantitative Researcher | 📈 Build alt-data pipelines and generate trading signals  
-🇺🇸🏦 Bank of China (NY) | 🧮 Analytics Developer | ⚓ Develop risk-profiling dashboards and automated data pipelines  
-🇺🇸🏦 Deutsche Bank (NY) | 💼 Data Scientist | 🔍 Analyze transaction flows and build network-based models  
+   
+###  Work Experience
+Currently, I am a Data Scientist based in New York City, with 3 years of experience in the Financial industry. My passion lies in applying advanced data science and quantitative techniques to solve complex financial challenges. I continuously seek to enhance my skills in financial modeling, statistics, and machine learning, always striving to combine theory with real-world application to drive insightful, data-driven decisions.
 
-### 🎓 Teaching Experience
-🇺🇸🎓 New York University | 🧑🏻‍🏫 Teaching Assistant & Grader | 💜 Lead ML/DS labs and evaluate technical assignments  
+#### 🖥️ Full-time Experience
+| Industry           | Company               | Role                      | Summary                                                    |
+|--------------------|------------------------|---------------------------|------------------------------------------------------------|
+| 🇺🇸 Hedge Fund      | 📈 ExodusPoint (NY)    | 📊 Quantitative Researcher | Build **alt-data pipelines** and generate **trading signals** |
+| 🇺🇸 Banking         | 🏦 Bank of China (NY)  | 💻 Analytics Developer     | Develop **risk dashboards** and **automated data flows** |
+| 🇺🇸 Banking         | 🏦 Deutsche Bank (NY)  | 📊 Data Scientist          | Analyze **transaction data** and conduct **network analysis** |
 
-### 🌱 Internship Experience
-🇺🇸💊 Boehringer Ingelheim | 🧬 Data Scientist Intern | 🎯 Model pharma sales and perform clustering analysis  
-🇺🇸💸 AlphaPoint | 💻 Software Engineer Intern | 💰 Build ETL pipelines and automate financial reporting  
-🇨🇳💬 Tencent | 🔍 ML Engineer Intern | 🕵🏻‍♀️ Detect illicit groups using large-scale data mining  
-🇨🇳📊 Winner Technology | 🤖 ML Engineer Intern | 🌲 Predict mall customer traffic using ML models  
+
+#### 🌱 Internship Experience
+| Industry           | Company                 | Role                        | Summary                                                   |
+|--------------------|--------------------------|-----------------------------|-----------------------------------------------------------|
+| 🇺🇸 Pharma         | 🧬 Boehringer Ingelheim  | 📊 DS Intern     | Model **pharma sales** and perform **clustering analysis** |
+| 🇺🇸 Crypto         | ₿ AlphaPoint            | 💻 SDE Intern   | Build **ETL workflows** and **automate financial reporting** |
+| 🇨🇳 Social Media    | 💬 Tencent               | 🤖 MLE Intern         | Detect illicit groups using **large-scale data mining** |
+| 🇨🇳 Retail Analytics| 🛍️ Winner Technology     | 🤖 MLE Intern         | Predict **mall customer traffic** with **ML models** |
+
 
 --- 
 
-### 🔨 Skillset
+### Skillset
 
 - 🐍 **Programming & Libraries:** Python, SQL, R, Git, Numpy, Pandas, Xarray, Scikit-Learn, PyTorch, TensorFlow  
 - 🧱 **Big Data & Pipeline:** PySpark, Dask, Apache Hadoop, ETL, CI/CD, Databricks  
@@ -114,7 +123,7 @@
 • Program in Python; fluently using scientific computing tools including Scipy, Numpy, Pandas, and Ipython; visualization methods including Matplotlib, Tableau, and Seaborn; machine learning tools including Scikit-Learn, NLTK, Pytorch, Tensorflow, and Keras --> 
 
   --- 
-### 🖥️ Programming Languages & Tools
+### ✔️ Programming Languages & Tools
 
 - Python (NumPy, Pandas, Xarray, SciPy, Scikit-learn, Seaborn, PyTorch)
 - R, JavaScript, Matlab, SQL, HTML, Bash
