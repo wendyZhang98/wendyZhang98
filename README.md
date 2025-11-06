@@ -72,19 +72,19 @@
 
    ---
   
-### 💼 Work Experience 
-  
-<!-- 🎯  -->
-<!-- I have 2 years of work experience in the industries of Financial Services, Healthcare, and Media & Entertainment. I am endeavoring to play my role as a full-stack data scientist.  -->
-- 🇺🇸🏦 ExodusPoint (NY) | 👩🏻‍💻 Quantitative Researcher | 📈 Generate Insights from Alt Data for Fundamental Trading
-- 🇺🇸🏦 Bank of China (NY) | 👩🏻‍💻 Analytics Developer | ⛲️ Design and Develop Bank-Wide Risk Profiling Platforms
-- 🇺🇸🏦 Deustche Bank (NY) | 👩🏻‍💻 Data Scientist | 🎯 Engineer Transaction Features & Implement Network Analysis 
-- 🇺🇸🏫 New York University | 👩🏻‍💻 Teaching Assistant & Grader | 💜 Prepare for and Conduct Lab Sessions & Grade Assignments
-- 🇺🇸💊 Boehringer Ingelheim | 👩🏻‍💻 Data Scientist Intern | 🐶 Predict Pharmaceutical Product Sales & Cluster Descriptive Text
-- 🇺🇸💻 AlphaPoint | 👩🏻‍💻 Software Engineer Intern | 💰 Autogenerate Financial Reports using ETL & Build Monitoring Dashboard
-- 🇨🇳💬 Tencent | 👩🏻‍💻 Machine Learning Engineer Intern | 🔍 Detect Illegitimate Wechat Groups via Data Mining
-- 🇨🇳🛍️ Winner Technology | 👩🏻‍💻 Machine Learning Engineer Intern | 🎄 Predict and Interprect Customer Traffic of Malls
+### 🧱 Full-Time Experience
+🇺🇸🏦 ExodusPoint (NY) | 📊 Quantitative Researcher | 📈 Build alt-data pipelines and generate trading signals  
+🇺🇸🏦 Bank of China (NY) | 🧮 Analytics Developer | ⚓ Develop risk-profiling dashboards and automated data pipelines  
+🇺🇸🏦 Deutsche Bank (NY) | 💼 Data Scientist | 🔍 Analyze transaction flows and build network-based models  
 
+### 🎓 Teaching Experience
+🇺🇸🎓 New York University | 🧑🏻‍🏫 Teaching Assistant & Grader | 💜 Lead ML/DS labs and evaluate technical assignments  
+
+### 🌱 Internship Experience
+🇺🇸💊 Boehringer Ingelheim | 🧬 Data Scientist Intern | 🎯 Model pharma sales and perform clustering analysis  
+🇺🇸💸 AlphaPoint | 💻 Software Engineer Intern | 💰 Build ETL pipelines and automate financial reporting  
+🇨🇳💬 Tencent | 🔍 ML Engineer Intern | 🕵🏻‍♀️ Detect illicit groups using large-scale data mining  
+🇨🇳📊 Winner Technology | 🤖 ML Engineer Intern | 🌲 Predict mall customer traffic using ML models  
 
 --- 
 
