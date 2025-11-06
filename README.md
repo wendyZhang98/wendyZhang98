@@ -78,9 +78,9 @@ I graduated from the [NYU Center for Data Science](https://cds.nyu.edu/) in May 
 ###  Work Experience
 Currently, I am a **Full-stack Data Scientist** based in New York City with 3 years of experience in the financial industry. My work integrates **data engineering, machine learning, and quantitative research** to solve complex, real-world problems.
 
-I see data as a lens to understand how systems—markets, businesses, and people—move and interact. I build models and analytical frameworks that **turn complexity into clarity, uncovering patterns that drive actionable, data-informed decisions.** My experience spans alt-data research, AML and risk analytics, and business intelligence, grounded in a commitment to rigorous analysis and practical impact.
+I see data as a lens to understand how systems—markets, businesses, and people—move and interact. I build models and analytical frameworks that turn complexity into clarity, uncovering patterns that drive actionable, data-informed decisions. My experience spans **alt-data research, AML and risk analytics, and business intelligence**, grounded in a commitment to rigorous analysis and practical impact.
 
-Outside of work, I recharge through yoga, meditation, and hiking—habits that help keep my mind **clear, balanced, and creative**.
+Outside of work, I recharge through **yoga, pilates, meditation, and hiking**—habits that help keep my mind **clear, balanced, and creative**.
 
 
 #### 🖥️ Full-time Experience
