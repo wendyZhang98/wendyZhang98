@@ -81,9 +81,9 @@ Currently, I am a Data Scientist based in New York City, with 3 years of experie
 #### 🖥️ Full-time Experience
 | Industry           | Company               | Role                      | Summary                                                    |
 |--------------------|------------------------|---------------------------|------------------------------------------------------------|
-| 🇺🇸 Hedge Fund      | 📈 ExodusPoint (NY)    | 📊 Quantitative Researcher | Build **alt-data pipelines** and generate **trading signals** |
-| 🇺🇸 Banking         | 🏦 Bank of China (NY)  | 💻 Analytics Developer     | Develop **risk dashboards** and **automated data flows** |
-| 🇺🇸 Banking         | 🏦 Deutsche Bank (NY)  | 📊 Data Scientist          | Analyze **transaction data** and conduct **network analysis** |
+| 🇺🇸 Hedge Fund      | 📈 ExodusPoint   | 📊 Quant Researcher | Build **alt-data pipelines** and generate **trading signals** |
+| 🇺🇸 Banking         | 🏦 Bank of China | 💻 Analytics Developer     | Develop **risk dashboards** and **automated data flows** |
+| 🇺🇸 Banking         | 🏦 Deutsche Bank | 📊 Data Scientist          | Analyze **transaction data** and conduct **network analysis** |
 
 
 #### 🌱 Internship Experience
