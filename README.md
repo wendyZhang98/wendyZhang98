@@ -37,11 +37,11 @@ I graduated from the [NYU Center for Data Science](https://cds.nyu.edu/) in May 
 - Recommender System | 🍜 [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers/blob/main/DSGA1001_project_Yelp_RecSys.pdf)
 - Kaggle Competition | 💳 [Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
 
-#### 🧑‍🏫 TA Experience
+#### 💜 TA Experience
 | Institution | Role                                | Summary                                                         |
 |-------------|--------------------------------------|------------------------------------------------------------------|
-| 🇺🇸 NYU | Grader of DS-GA 1019 (Spring 2023) | Evaluate coding work for **Advanced Python for Data Science**       |
-| 🇺🇸 NYU | TA & Grader of DS-GA 1006 (Fall 2022) | Lead **ML/DS labs** and **grade technical assignments**             |
+| 🇺🇸 NYU | ✔️ Grader of DS-GA 1019 (Spring 2023) | Evaluate coding work for **Advanced Python for Data Science**       |
+| 🇺🇸 NYU | 🧑‍🏫 TA & Grader of DS-GA 1006 (Fall 2022) | Lead **ML/DS labs** and **grade technical assignments**             |
 
 <!--   It excites me most when I can create an impact in making data-supported decisions using statistics, machine learning, natural language processing, and deep learning techniques.  -->
   
