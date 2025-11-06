@@ -26,12 +26,12 @@
 
 ### Education 
 <!--    [Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython);  -->
-I graduated from the [NYU Center for Data Science](https://cds.nyu.edu/) in May 2022 as a **top 5% student (GPA: 3.97/4.0)**, where I completed a rigorous curriculum of advanced data science and machine learning courses, including Probabilities and Statistics, [Machine Learning](https://nyu-ds1003.github.io/spring2021/#home), Big Data, [Capstone](https://github.com/wendyZhang98/DS-GA-1006-Capstone), [Deep Learning](https://bubbly-methane-e7a.notion.site/Deep-Learning-Fall-21-6dbea69b29994c4e88cd12a494e6b01f), Natural Language Processing, Natural Language Understanding, [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html), [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python), and [Responsible Data Science](https://dataresponsibly.github.io/rds/).
+I graduated from the [NYU Center for Data Science](https://cds.nyu.edu/) in May 2022 as a **top 5% student (GPA: 3.97/4.0)**, where I completed a rigorous curriculum of advanced data science and machine learning courses, including Probabilities and Statistics, [Machine Learning](https://github.com/wendyZhang98/NYU-DS-GA-1003-Machine-Learning-Takeaways), Big Data, [Capstone](https://github.com/wendyZhang98/NYU-DS-GA-1006-Capstone-Takeaways), [Deep Learning](https://github.com/wendyZhang98/NYU-DS-GA-1008-Deep-Learning-Homework), [Natural Language Processing](https://github.com/wendyZhang98/NYU-DS-GA-1011-Natural-Language-Processing-Takeaways), Natural Language Understanding, [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html), [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python), and [Responsible Data Science](https://dataresponsibly.github.io/rds/).
 
 <!--    ✨ Presently, I am a software developer & data scientist working in New York City, with a cumulative experience of 2 years in the Financial Services, Healthcare, and Media & Entertainment industries. My passion lies in continuously learning computer science techniques and utilizing them adeptly to address real-world challenges with intelligence and ingenuity. This pursuit of knowledge and its practical application never fails to inspire me. -->
 
 #### 👩🏻‍💻  Projects at School
-- Natural Language Understanding | 🤔 [Probe GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
+- Natural Language Understanding | 🦜 [Probe GPT-3’s Linguistic Knowledge on Semantic Tasks](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling)
 - Deep Learning | 🏥 [Detect Alzheimer’s Disease with Multi-Modal Fusion of Clinical MRI Scans](https://drive.google.com/file/d/15dfxUC-I_FMljcihrA5UY-DTof-lyJdq/view?usp=sharing)
 - Recommender System | 🎵 [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1dOB6UXTev_PWtpAjX3P8z8Aqp7wr6-uu/view?usp=sharing)
 - Recommender System | 🍜 [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers/blob/main/DSGA1001_project_Yelp_RecSys.pdf)
@@ -40,8 +40,8 @@ I graduated from the [NYU Center for Data Science](https://cds.nyu.edu/) in May 
 #### 🧑‍🏫 TA Experience
 | Institution | Role                                | Summary                                                         |
 |-------------|--------------------------------------|------------------------------------------------------------------|
-| 🇺🇸 NYU | 💜 Grader of DS-GA 1019 (Spring 2023) | Evaluate coding work for **Advanced Python for Data Science**       |
-| 🇺🇸 NYU | 💜 TA & Grader of DS-GA 1006 (Fall 2022) | Lead **ML/DS labs** and **grade technical assignments**             |
+| 🇺🇸 NYU | Grader of DS-GA 1019 (Spring 2023) | Evaluate coding work for **Advanced Python for Data Science**       |
+| 🇺🇸 NYU | TA & Grader of DS-GA 1006 (Fall 2022) | Lead **ML/DS labs** and **grade technical assignments**             |
 
 <!--   It excites me most when I can create an impact in making data-supported decisions using statistics, machine learning, natural language processing, and deep learning techniques.  -->
   
@@ -76,7 +76,12 @@ I graduated from the [NYU Center for Data Science](https://cds.nyu.edu/) in May 
    ---
    
 ###  Work Experience
-Currently, I am a Data Scientist based in New York City, with 3 years of experience in the Financial industry. My passion lies in applying advanced data science and quantitative techniques to solve complex financial challenges. I continuously seek to enhance my skills in financial modeling, statistics, and machine learning, always striving to combine theory with real-world application to drive insightful, data-driven decisions.
+Currently, I am a **Full-stack Data Scientist** based in New York City with 3 years of experience in the financial industry. My work integrates **data engineering, machine learning, and quantitative research** to solve complex, real-world problems.
+
+I see data as a lens to understand how systems—markets, businesses, and people—move and interact. I build models and analytical frameworks that **turn complexity into clarity, uncovering patterns that drive actionable, data-informed decisions.** My experience spans alt-data research, AML and risk analytics, and business intelligence, grounded in a commitment to rigorous analysis and practical impact.
+
+Outside of work, I recharge through yoga, meditation, and hiking—habits that help keep my mind **clear, balanced, and creative**.
+
 
 #### 🖥️ Full-time Experience
 | Industry           | Company               | Role                      | Summary                                                    |
