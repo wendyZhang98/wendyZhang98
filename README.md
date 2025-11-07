@@ -128,7 +128,7 @@ Outside of work, I recharge through **yoga, pilates, meditation, and hiking**—
 • Program in Python; fluently using scientific computing tools including Scipy, Numpy, Pandas, and Ipython; visualization methods including Matplotlib, Tableau, and Seaborn; machine learning tools including Scikit-Learn, NLTK, Pytorch, Tensorflow, and Keras --> 
 
   --- 
-### ✔️ Programming Languages & Tools
+### Programming Languages & Tools
 
 - Python (NumPy, Pandas, Xarray, SciPy, Scikit-learn, Seaborn, PyTorch)
 - R, JavaScript, Matlab, SQL, HTML, Bash
