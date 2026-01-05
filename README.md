@@ -23,10 +23,37 @@
 </div>
 
 ---
+###  Work Experience
+I am a Full-stack Data Scientist based in New York City with 3 years of experience in the financial industry. My work integrates data engineering, machine learning, and quantitative research to solve complex, real-world problems.
+
+I see data as a lens to understand how systems—markets, businesses, and people—move and interact. I build models and analytical frameworks that turn complexity into clarity, uncovering patterns that drive actionable, data-informed decisions. My experience spans alt-data research, AML and risk analytics, and business intelligence, grounded in a commitment to rigorous analysis and practical impact.
+
+Outside of work, I recharge through yoga, pilates, meditation, and hiking—habits that help keep my mind clear, balanced, and creative.
+
+
+#### 🖥️ Full-time Experience
+| Industry           | Company               | Role                      | Summary                                                    |
+|--------------------|------------------------|---------------------------|------------------------------------------------------------|
+| 🇺🇸 Hedge Fund      | 📈 ExodusPoint   | 📊 Quant Researcher | Build **alt-data pipelines** and generate **trading signals** |
+| 🇺🇸 Banking         | 🏦 Bank of China | 💻 Analytics Developer     | Develop **risk dashboards** and **automated data flows** |
+| 🇺🇸 Banking         | 🏦 Deutsche Bank | 📊 Data Scientist          | Analyze **transaction data** and conduct **network analysis** |
+
+
+#### 🌱 Internship Experience
+| Industry           | Company                 | Role                        | Summary                                                   |
+|--------------------|--------------------------|-----------------------------|-----------------------------------------------------------|
+| 🇺🇸 Pharma         | 🧬 Boehringer Ingelheim  | 📊 DS Intern     | Model **pharma sales** and perform **clustering analysis** |
+| 🇺🇸 Crypto         | ₿ AlphaPoint            | 💻 SDE Intern   | Build **ETL workflows** and **automate financial reporting** |
+| 🇨🇳 Social Media    | 💬 Tencent               | 🤖 MLE Intern         | Detect illicit groups using **large-scale data mining** |
+| 🇨🇳 Retail Analytics| 🛍️ Winner Technology     | 🤖 MLE Intern         | Predict **mall customer traffic** with **ML models** |
+
+
+--- 
+
 
 ### Education 
 <!--    [Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython);  -->
-I graduated from the [NYU Center for Data Science](https://cds.nyu.edu/) in May 2022 as a **top 5% student (GPA: 3.97/4.0)**, where I completed a rigorous curriculum of advanced data science and machine learning courses, including Probabilities and Statistics, [Machine Learning](https://github.com/wendyZhang98/NYU-DS-GA-1003-Machine-Learning-Takeaways), Big Data, [Capstone](https://github.com/wendyZhang98/NYU-DS-GA-1006-Capstone-Takeaways), [Deep Learning](https://github.com/wendyZhang98/NYU-DS-GA-1008-Deep-Learning-Homework), [Natural Language Processing](https://github.com/wendyZhang98/NYU-DS-GA-1011-Natural-Language-Processing-Takeaways), Natural Language Understanding, [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html), [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python), and [Responsible Data Science](https://dataresponsibly.github.io/rds/).
+I graduated from the [NYU Center for Data Science](https://cds.nyu.edu/) in May 2022 (GPA: 3.97/4.0), where I completed a rigorous curriculum of advanced data science and machine learning courses, including Probabilities and Statistics, [Machine Learning](https://github.com/wendyZhang98/NYU-DS-GA-1003-Machine-Learning-Takeaways), Big Data, [Capstone](https://github.com/wendyZhang98/NYU-DS-GA-1006-Capstone-Takeaways), [Deep Learning](https://github.com/wendyZhang98/NYU-DS-GA-1008-Deep-Learning-Homework), [Natural Language Processing](https://github.com/wendyZhang98/NYU-DS-GA-1011-Natural-Language-Processing-Takeaways), Natural Language Understanding, [Linear Algebra](https://leomiolane.github.io/linalg-for-ds.html), [Advanced Python](https://github.com/wendyZhang98/DS-GA-3001-Advaced-Python), and [Responsible Data Science](https://dataresponsibly.github.io/rds/).
 
 <!--    ✨ Presently, I am a software developer & data scientist working in New York City, with a cumulative experience of 2 years in the Financial Services, Healthcare, and Media & Entertainment industries. My passion lies in continuously learning computer science techniques and utilizing them adeptly to address real-world challenges with intelligence and ingenuity. This pursuit of knowledge and its practical application never fails to inspire me. -->
 
@@ -74,33 +101,6 @@ I graduated from the [NYU Center for Data Science](https://cds.nyu.edu/) in May 
   </a> -->
 
    ---
-   
-###  Work Experience
-Currently, I am a **Full-stack Data Scientist** based in New York City with 3 years of experience in the financial industry. My work integrates **data engineering, machine learning, and quantitative research** to solve complex, real-world problems.
-
-I see data as a lens to understand how systems—markets, businesses, and people—move and interact. I build models and analytical frameworks that turn complexity into clarity, uncovering patterns that drive actionable, data-informed decisions. My experience spans **alt-data research, AML and risk analytics, and business intelligence**, grounded in a commitment to rigorous analysis and practical impact.
-
-Outside of work, I recharge through yoga, pilates, meditation, and hiking—habits that help keep my mind clear, balanced, and creative.
-
-
-#### 🖥️ Full-time Experience
-| Industry           | Company               | Role                      | Summary                                                    |
-|--------------------|------------------------|---------------------------|------------------------------------------------------------|
-| 🇺🇸 Hedge Fund      | 📈 ExodusPoint   | 📊 Quant Researcher | Build **alt-data pipelines** and generate **trading signals** |
-| 🇺🇸 Banking         | 🏦 Bank of China | 💻 Analytics Developer     | Develop **risk dashboards** and **automated data flows** |
-| 🇺🇸 Banking         | 🏦 Deutsche Bank | 📊 Data Scientist          | Analyze **transaction data** and conduct **network analysis** |
-
-
-#### 🌱 Internship Experience
-| Industry           | Company                 | Role                        | Summary                                                   |
-|--------------------|--------------------------|-----------------------------|-----------------------------------------------------------|
-| 🇺🇸 Pharma         | 🧬 Boehringer Ingelheim  | 📊 DS Intern     | Model **pharma sales** and perform **clustering analysis** |
-| 🇺🇸 Crypto         | ₿ AlphaPoint            | 💻 SDE Intern   | Build **ETL workflows** and **automate financial reporting** |
-| 🇨🇳 Social Media    | 💬 Tencent               | 🤖 MLE Intern         | Detect illicit groups using **large-scale data mining** |
-| 🇨🇳 Retail Analytics| 🛍️ Winner Technology     | 🤖 MLE Intern         | Predict **mall customer traffic** with **ML models** |
-
-
---- 
 
 ### Skillset
 
