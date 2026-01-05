@@ -24,12 +24,12 @@
 
 ---
 ###  Work Experience
-I am a Full-stack Data Scientist based in New York City with 3 years of experience in the financial industry. My work integrates data engineering, machine learning, and quantitative research to solve complex, real-world problems.
 
-I see data as a lens to understand how systems—markets, businesses, and people—move and interact. I build models and analytical frameworks that turn complexity into clarity, uncovering patterns that drive actionable, data-informed decisions. My experience spans alt-data research, AML and risk analytics, and business intelligence, grounded in a commitment to rigorous analysis and practical impact.
+I’m a full-stack Data Scientist based in New York City with 3 years of experience in the financial industry. I work at the intersection of data engineering, machine learning, and quantitative research to solve complex, real-world problems. Connect with me on [Linkedin](https://www.linkedin.com/in/wenxinzhang980719/).
 
-Outside of work, I recharge through yoga, pilates, meditation, and hiking—habits that help keep my mind clear, balanced, and creative.
+I see data as a lens for understanding how systems—markets, businesses, and people—move and interact. I build models and analytical frameworks that turn complexity into clarity, uncovering patterns that drive actionable, data-informed decisions. My experience spans alternative data research, AML and risk analytics, and business intelligence, grounded in rigorous analysis and practical impact.
 
+Outside of work, I recharge through yoga, journaling, meditation, and hiking—habits that keep my mind clear, balanced, and creative. I also share learning takeaways on [Medium](https://medium.com/@WenxinZhang98).
 
 #### 🖥️ Full-time Experience
 | Industry           | Company               | Role                      | Summary                                                    |
